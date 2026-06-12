@@ -1,0 +1,7735 @@
+{
+  "summary": {
+    "records": 10920,
+    "positive_records": 10054,
+    "total_qty": 4458800.0,
+    "mapped_qty": 4401924.0,
+    "unmapped_qty": 56876.0,
+    "mapped_country_count": 81,
+    "total_orders": 1036,
+    "total_sales": 2.6288785394184867e+20,
+    "top_country": {
+      "country": "印尼",
+      "english": "Indonesia",
+      "lat": -2.5,
+      "lon": 118.0,
+      "qty": 2172338.0,
+      "sales": 27380.0,
+      "rows": 243,
+      "orders": 38,
+      "a_orders": 34,
+      "b_orders": 0,
+      "c_orders": 5,
+      "unknown_orders": 0,
+      "c_order_share": 0.1316,
+      "top_category": "气垫",
+      "top_category_qty": 2116673.0,
+      "spray_qty": 22.0,
+      "spray_share": 0.0,
+      "level_counts": {
+        "A": 34,
+        "C": 5
+      },
+      "top_categories": [
+        {
+          "category": "气垫",
+          "qty": 2116673.0,
+          "orders": 15
+        },
+        {
+          "category": "腮红粉",
+          "qty": 30058.0,
+          "orders": 4
+        },
+        {
+          "category": "未分类",
+          "qty": 22565.0,
+          "orders": 6
+        },
+        {
+          "category": "唇釉",
+          "qty": 2576.0,
+          "orders": 4
+        },
+        {
+          "category": "组合品类",
+          "qty": 210.0,
+          "orders": 8
+        },
+        {
+          "category": "空包材",
+          "qty": 102.0,
+          "orders": 2
+        },
+        {
+          "category": "散粉",
+          "qty": 47.0,
+          "orders": 6
+        },
+        {
+          "category": "喷雾",
+          "qty": 22.0,
+          "orders": 3
+        }
+      ]
+    },
+    "top_category": {
+      "category": "气垫",
+      "qty": 2240851.0,
+      "sales": 225536.0,
+      "orders": 28,
+      "countries": 6
+    }
+  },
+  "countries": [
+    {
+      "country": "印尼",
+      "english": "Indonesia",
+      "lat": -2.5,
+      "lon": 118.0,
+      "qty": 2172338.0,
+      "sales": 27380.0,
+      "rows": 243,
+      "orders": 38,
+      "a_orders": 34,
+      "b_orders": 0,
+      "c_orders": 5,
+      "unknown_orders": 0,
+      "c_order_share": 0.1316,
+      "top_category": "气垫",
+      "top_category_qty": 2116673.0,
+      "spray_qty": 22.0,
+      "spray_share": 0.0,
+      "level_counts": {
+        "A": 34,
+        "C": 5
+      },
+      "top_categories": [
+        {
+          "category": "气垫",
+          "qty": 2116673.0,
+          "orders": 15
+        },
+        {
+          "category": "腮红粉",
+          "qty": 30058.0,
+          "orders": 4
+        },
+        {
+          "category": "未分类",
+          "qty": 22565.0,
+          "orders": 6
+        },
+        {
+          "category": "唇釉",
+          "qty": 2576.0,
+          "orders": 4
+        },
+        {
+          "category": "组合品类",
+          "qty": 210.0,
+          "orders": 8
+        },
+        {
+          "category": "空包材",
+          "qty": 102.0,
+          "orders": 2
+        },
+        {
+          "category": "散粉",
+          "qty": 47.0,
+          "orders": 6
+        },
+        {
+          "category": "喷雾",
+          "qty": 22.0,
+          "orders": 3
+        }
+      ]
+    },
+    {
+      "country": "菲律宾",
+      "english": "Philippines",
+      "lat": 12.9,
+      "lon": 122.8,
+      "qty": 415755.0,
+      "sales": 500939.02,
+      "rows": 400,
+      "orders": 42,
+      "a_orders": 22,
+      "b_orders": 2,
+      "c_orders": 17,
+      "unknown_orders": 1,
+      "c_order_share": 0.4048,
+      "top_category": "喷雾",
+      "top_category_qty": 189789.0,
+      "spray_qty": 189789.0,
+      "spray_share": 0.4565,
+      "level_counts": {
+        "C": 17,
+        "B": 2,
+        "A": 22,
+        "未填": 1
+      },
+      "top_categories": [
+        {
+          "category": "喷雾",
+          "qty": 189789.0,
+          "orders": 23
+        },
+        {
+          "category": "组合品类",
+          "qty": 115386.0,
+          "orders": 16
+        },
+        {
+          "category": "气垫",
+          "qty": 110019.0,
+          "orders": 4
+        },
+        {
+          "category": "唇釉",
+          "qty": 139.0,
+          "orders": 16
+        },
+        {
+          "category": "眼线/眼影",
+          "qty": 93.0,
+          "orders": 5
+        },
+        {
+          "category": "未分类",
+          "qty": 85.0,
+          "orders": 5
+        },
+        {
+          "category": "LIP BUTTER BALM",
+          "qty": 51.0,
+          "orders": 1
+        },
+        {
+          "category": "粉底液",
+          "qty": 42.0,
+          "orders": 10
+        }
+      ]
+    },
+    {
+      "country": "希腊",
+      "english": "Greece",
+      "lat": 39.1,
+      "lon": 21.8,
+      "qty": 237714.0,
+      "sales": 150180.0,
+      "rows": 101,
+      "orders": 19,
+      "a_orders": 10,
+      "b_orders": 1,
+      "c_orders": 8,
+      "unknown_orders": 0,
+      "c_order_share": 0.4211,
+      "top_category": "空包材",
+      "top_category_qty": 116300.0,
+      "spray_qty": 2013.0,
+      "spray_share": 0.0085,
+      "level_counts": {
+        "C": 8,
+        "A": 10,
+        "B": 1
+      },
+      "top_categories": [
+        {
+          "category": "空包材",
+          "qty": 116300.0,
+          "orders": 9
+        },
+        {
+          "category": "组合品类",
+          "qty": 115530.0,
+          "orders": 13
+        },
+        {
+          "category": "遮瑕",
+          "qty": 2307.0,
+          "orders": 3
+        },
+        {
+          "category": "喷雾",
+          "qty": 2013.0,
+          "orders": 3
+        },
+        {
+          "category": "外采产品",
+          "qty": 1219.0,
+          "orders": 6
+        },
+        {
+          "category": "唇釉",
+          "qty": 306.0,
+          "orders": 2
+        },
+        {
+          "category": "唇油",
+          "qty": 16.0,
+          "orders": 1
+        },
+        {
+          "category": "散粉",
+          "qty": 11.0,
+          "orders": 1
+        }
+      ]
+    },
+    {
+      "country": "美国",
+      "english": "United States",
+      "lat": 37.1,
+      "lon": -95.7,
+      "qty": 191097.0,
+      "sales": 1.3260699365806244e+20,
+      "rows": 2194,
+      "orders": 210,
+      "a_orders": 18,
+      "b_orders": 12,
+      "c_orders": 183,
+      "unknown_orders": 1,
+      "c_order_share": 0.8714,
+      "top_category": "组合品类",
+      "top_category_qty": 56544.0,
+      "spray_qty": 27953.0,
+      "spray_share": 0.1463,
+      "level_counts": {
+        "C": 183,
+        "B": 12,
+        "A": 18,
+        "未填": 1
+      },
+      "top_categories": [
+        {
+          "category": "组合品类",
+          "qty": 56544.0,
+          "orders": 100
+        },
+        {
+          "category": "喷雾",
+          "qty": 27953.0,
+          "orders": 86
+        },
+        {
+          "category": "唇釉",
+          "qty": 24808.0,
+          "orders": 52
+        },
+        {
+          "category": "粉底液",
+          "qty": 18264.0,
+          "orders": 42
+        },
+        {
+          "category": "外采产品",
+          "qty": 13831.0,
+          "orders": 67
+        },
+        {
+          "category": "遮瑕",
+          "qty": 13489.0,
+          "orders": 61
+        },
+        {
+          "category": "腮红粉",
+          "qty": 12808.0,
+          "orders": 45
+        },
+        {
+          "category": "散粉",
+          "qty": 6447.0,
+          "orders": 28
+        }
+      ]
+    },
+    {
+      "country": "沙特",
+      "english": "Saudi Arabia",
+      "lat": 23.9,
+      "lon": 45.1,
+      "qty": 190964.0,
+      "sales": 154345.8,
+      "rows": 160,
+      "orders": 13,
+      "a_orders": 6,
+      "b_orders": 0,
+      "c_orders": 7,
+      "unknown_orders": 0,
+      "c_order_share": 0.5385,
+      "top_category": "未分类",
+      "top_category_qty": 75300.0,
+      "spray_qty": 8.0,
+      "spray_share": 0.0,
+      "level_counts": {
+        "C": 7,
+        "A": 6
+      },
+      "top_categories": [
+        {
+          "category": "未分类",
+          "qty": 75300.0,
+          "orders": 3
+        },
+        {
+          "category": "唇釉",
+          "qty": 50150.0,
+          "orders": 1
+        },
+        {
+          "category": "唇膏",
+          "qty": 35120.0,
+          "orders": 1
+        },
+        {
+          "category": "组合品类",
+          "qty": 25143.0,
+          "orders": 5
+        },
+        {
+          "category": "Lip mask",
+          "qty": 5015.0,
+          "orders": 1
+        },
+        {
+          "category": "液体腮红",
+          "qty": 81.0,
+          "orders": 3
+        },
+        {
+          "category": "外采产品",
+          "qty": 58.0,
+          "orders": 4
+        },
+        {
+          "category": "卸妆水",
+          "qty": 30.0,
+          "orders": 1
+        }
+      ]
+    },
+    {
+      "country": "伊拉克",
+      "english": "Iraq",
+      "lat": 33.2,
+      "lon": 43.7,
+      "qty": 159955.0,
+      "sales": 67493.0,
+      "rows": 243,
+      "orders": 20,
+      "a_orders": 12,
+      "b_orders": 2,
+      "c_orders": 6,
+      "unknown_orders": 0,
+      "c_order_share": 0.3,
+      "top_category": "组合品类",
+      "top_category_qty": 50651.0,
+      "spray_qty": 2502.0,
+      "spray_share": 0.0156,
+      "level_counts": {
+        "C": 6,
+        "A": 12,
+        "B": 2
+      },
+      "top_categories": [
+        {
+          "category": "组合品类",
+          "qty": 50651.0,
+          "orders": 11
+        },
+        {
+          "category": "空包材",
+          "qty": 35060.0,
+          "orders": 4
+        },
+        {
+          "category": "唇釉",
+          "qty": 28029.0,
+          "orders": 8
+        },
+        {
+          "category": "唇彩",
+          "qty": 21013.0,
+          "orders": 3
+        },
+        {
+          "category": "遮瑕",
+          "qty": 9044.0,
+          "orders": 6
+        },
+        {
+          "category": "散粉",
+          "qty": 7504.0,
+          "orders": 4
+        },
+        {
+          "category": "未分类",
+          "qty": 4017.0,
+          "orders": 2
+        },
+        {
+          "category": "喷雾",
+          "qty": 2502.0,
+          "orders": 3
+        }
+      ]
+    },
+    {
+      "country": "澳大利亚",
+      "english": "Australia",
+      "lat": -25.3,
+      "lon": 133.8,
+      "qty": 102994.0,
+      "sales": 74737.0,
+      "rows": 278,
+      "orders": 38,
+      "a_orders": 15,
+      "b_orders": 1,
+      "c_orders": 22,
+      "unknown_orders": 0,
+      "c_order_share": 0.5789,
+      "top_category": "组合品类",
+      "top_category_qty": 37927.0,
+      "spray_qty": 1258.0,
+      "spray_share": 0.0122,
+      "level_counts": {
+        "C": 22,
+        "A": 15,
+        "B": 1
+      },
+      "top_categories": [
+        {
+          "category": "组合品类",
+          "qty": 37927.0,
+          "orders": 17
+        },
+        {
+          "category": "唇部马克笔",
+          "qty": 19586.0,
+          "orders": 4
+        },
+        {
+          "category": "空包材",
+          "qty": 11002.0,
+          "orders": 2
+        },
+        {
+          "category": "双头唇染笔",
+          "qty": 11000.0,
+          "orders": 1
+        },
+        {
+          "category": "Lip marker",
+          "qty": 10000.0,
+          "orders": 1
+        },
+        {
+          "category": "唇釉",
+          "qty": 8914.0,
+          "orders": 9
+        },
+        {
+          "category": "喷雾",
+          "qty": 1258.0,
+          "orders": 10
+        },
+        {
+          "category": "粉底液",
+          "qty": 1103.0,
+          "orders": 7
+        }
+      ]
+    },
+    {
+      "country": "印度",
+      "english": "India",
+      "lat": 20.6,
+      "lon": 78.9,
+      "qty": 97886.0,
+      "sales": 321187.66,
+      "rows": 157,
+      "orders": 24,
+      "a_orders": 8,
+      "b_orders": 3,
+      "c_orders": 14,
+      "unknown_orders": 0,
+      "c_order_share": 0.5833,
+      "top_category": "喷雾",
+      "top_category_qty": 71115.0,
+      "spray_qty": 71115.0,
+      "spray_share": 0.7265,
+      "level_counts": {
+        "C": 14,
+        "A": 8,
+        "B": 3
+      },
+      "top_categories": [
+        {
+          "category": "喷雾",
+          "qty": 71115.0,
+          "orders": 9
+        },
+        {
+          "category": "组合品类",
+          "qty": 8571.0,
+          "orders": 9
+        },
+        {
+          "category": "高光粉",
+          "qty": 6006.0,
+          "orders": 3
+        },
+        {
+          "category": "腮红粉",
+          "qty": 4219.0,
+          "orders": 8
+        },
+        {
+          "category": "粉底液",
+          "qty": 3136.0,
+          "orders": 7
+        },
+        {
+          "category": "身体高光油",
+          "qty": 2002.0,
+          "orders": 2
+        },
+        {
+          "category": "腮红盘",
+          "qty": 2000.0,
+          "orders": 1
+        },
+        {
+          "category": "外采产品",
+          "qty": 517.0,
+          "orders": 4
+        }
+      ]
+    },
+    {
+      "country": "阿曼",
+      "english": "Oman",
+      "lat": 21.5,
+      "lon": 55.9,
+      "qty": 93128.0,
+      "sales": 151653.46,
+      "rows": 741,
+      "orders": 73,
+      "a_orders": 4,
+      "b_orders": 8,
+      "c_orders": 63,
+      "unknown_orders": 0,
+      "c_order_share": 0.863,
+      "top_category": "空包材",
+      "top_category_qty": 22188.0,
+      "spray_qty": 612.0,
+      "spray_share": 0.0066,
+      "level_counts": {
+        "B": 8,
+        "C": 63,
+        "A": 4
+      },
+      "top_categories": [
+        {
+          "category": "空包材",
+          "qty": 22188.0,
+          "orders": 4
+        },
+        {
+          "category": "组合品类",
+          "qty": 22153.0,
+          "orders": 47
+        },
+        {
+          "category": "唇釉",
+          "qty": 17318.0,
+          "orders": 30
+        },
+        {
+          "category": "遮瑕",
+          "qty": 8531.0,
+          "orders": 23
+        },
+        {
+          "category": "粉底液",
+          "qty": 4937.0,
+          "orders": 14
+        },
+        {
+          "category": "唇油",
+          "qty": 4884.0,
+          "orders": 12
+        },
+        {
+          "category": "外采产品",
+          "qty": 3635.0,
+          "orders": 29
+        },
+        {
+          "category": "眼影盘",
+          "qty": 2012.0,
+          "orders": 3
+        }
+      ]
+    },
+    {
+      "country": "新加坡",
+      "english": "Singapore",
+      "lat": 1.35,
+      "lon": 103.8,
+      "qty": 84830.0,
+      "sales": 5.548847979533524e+18,
+      "rows": 332,
+      "orders": 55,
+      "a_orders": 10,
+      "b_orders": 9,
+      "c_orders": 36,
+      "unknown_orders": 0,
+      "c_order_share": 0.6545,
+      "top_category": "遮瑕",
+      "top_category_qty": 32630.0,
+      "spray_qty": 20281.0,
+      "spray_share": 0.2391,
+      "level_counts": {
+        "C": 36,
+        "B": 9,
+        "A": 10
+      },
+      "top_categories": [
+        {
+          "category": "遮瑕",
+          "qty": 32630.0,
+          "orders": 24
+        },
+        {
+          "category": "喷雾",
+          "qty": 20281.0,
+          "orders": 18
+        },
+        {
+          "category": "修容粉",
+          "qty": 7008.0,
+          "orders": 3
+        },
+        {
+          "category": "未分类",
+          "qty": 6004.0,
+          "orders": 2
+        },
+        {
+          "category": "空包材",
+          "qty": 6003.0,
+          "orders": 2
+        },
+        {
+          "category": "卸妆水",
+          "qty": 5027.0,
+          "orders": 6
+        },
+        {
+          "category": "液体腮红",
+          "qty": 3429.0,
+          "orders": 7
+        },
+        {
+          "category": "妆前乳",
+          "qty": 2026.0,
+          "orders": 3
+        }
+      ]
+    },
+    {
+      "country": "泰国",
+      "english": "Thailand",
+      "lat": 15.9,
+      "lon": 101.0,
+      "qty": 84592.0,
+      "sales": 75901.0,
+      "rows": 127,
+      "orders": 13,
+      "a_orders": 9,
+      "b_orders": 0,
+      "c_orders": 4,
+      "unknown_orders": 0,
+      "c_order_share": 0.3077,
+      "top_category": "腮红粉",
+      "top_category_qty": 42106.0,
+      "spray_qty": 92.0,
+      "spray_share": 0.0011,
+      "level_counts": {
+        "C": 4,
+        "A": 9
+      },
+      "top_categories": [
+        {
+          "category": "腮红粉",
+          "qty": 42106.0,
+          "orders": 3
+        },
+        {
+          "category": "腮红盘",
+          "qty": 42060.0,
+          "orders": 2
+        },
+        {
+          "category": "组合品类",
+          "qty": 156.0,
+          "orders": 6
+        },
+        {
+          "category": "喷雾",
+          "qty": 92.0,
+          "orders": 2
+        },
+        {
+          "category": "粉底液",
+          "qty": 66.0,
+          "orders": 2
+        },
+        {
+          "category": "未分类",
+          "qty": 46.0,
+          "orders": 2
+        },
+        {
+          "category": "唇釉",
+          "qty": 24.0,
+          "orders": 2
+        },
+        {
+          "category": "遮瑕",
+          "qty": 18.0,
+          "orders": 1
+        }
+      ]
+    },
+    {
+      "country": "巴西",
+      "english": "Brazil",
+      "lat": -14.2,
+      "lon": -51.9,
+      "qty": 77295.0,
+      "sales": 3.94,
+      "rows": 129,
+      "orders": 12,
+      "a_orders": 9,
+      "b_orders": 0,
+      "c_orders": 4,
+      "unknown_orders": 0,
+      "c_order_share": 0.3333,
+      "top_category": "组合品类",
+      "top_category_qty": 60002.0,
+      "spray_qty": 1.0,
+      "spray_share": 0.0,
+      "level_counts": {
+        "A": 9,
+        "C": 4
+      },
+      "top_categories": [
+        {
+          "category": "组合品类",
+          "qty": 60002.0,
+          "orders": 2
+        },
+        {
+          "category": "眼线/眼影",
+          "qty": 10015.0,
+          "orders": 5
+        },
+        {
+          "category": "眉笔/眉胶",
+          "qty": 7060.0,
+          "orders": 2
+        },
+        {
+          "category": "未分类",
+          "qty": 94.0,
+          "orders": 3
+        },
+        {
+          "category": "美都产品",
+          "qty": 64.0,
+          "orders": 1
+        },
+        {
+          "category": "遮瑕",
+          "qty": 46.0,
+          "orders": 2
+        },
+        {
+          "category": "粉底液",
+          "qty": 4.0,
+          "orders": 1
+        },
+        {
+          "category": "唇釉",
+          "qty": 2.0,
+          "orders": 1
+        }
+      ]
+    },
+    {
+      "country": "墨西哥",
+      "english": "Mexico",
+      "lat": 23.6,
+      "lon": -102.6,
+      "qty": 73426.0,
+      "sales": 8.06867428160661e+19,
+      "rows": 275,
+      "orders": 21,
+      "a_orders": 3,
+      "b_orders": 4,
+      "c_orders": 15,
+      "unknown_orders": 0,
+      "c_order_share": 0.7143,
+      "top_category": "组合品类",
+      "top_category_qty": 16423.0,
+      "spray_qty": 10303.0,
+      "spray_share": 0.1403,
+      "level_counts": {
+        "B": 4,
+        "C": 15,
+        "A": 3
+      },
+      "top_categories": [
+        {
+          "category": "组合品类",
+          "qty": 16423.0,
+          "orders": 11
+        },
+        {
+          "category": "空包材",
+          "qty": 16120.0,
+          "orders": 3
+        },
+        {
+          "category": "散粉",
+          "qty": 14020.0,
+          "orders": 7
+        },
+        {
+          "category": "喷雾",
+          "qty": 10303.0,
+          "orders": 5
+        },
+        {
+          "category": "遮瑕",
+          "qty": 9706.0,
+          "orders": 6
+        },
+        {
+          "category": "外采产品",
+          "qty": 2860.0,
+          "orders": 7
+        },
+        {
+          "category": "粉底液",
+          "qty": 2745.0,
+          "orders": 11
+        },
+        {
+          "category": "眼线/眼影",
+          "qty": 1200.0,
+          "orders": 1
+        }
+      ]
+    },
+    {
+      "country": "马来西亚",
+      "english": "Malaysia",
+      "lat": 4.2,
+      "lon": 102.0,
+      "qty": 69092.0,
+      "sales": 126650.0,
+      "rows": 127,
+      "orders": 18,
+      "a_orders": 8,
+      "b_orders": 3,
+      "c_orders": 8,
+      "unknown_orders": 0,
+      "c_order_share": 0.4444,
+      "top_category": "组合品类",
+      "top_category_qty": 25919.0,
+      "spray_qty": 15335.0,
+      "spray_share": 0.222,
+      "level_counts": {
+        "C": 8,
+        "B": 3,
+        "A": 8
+      },
+      "top_categories": [
+        {
+          "category": "组合品类",
+          "qty": 25919.0,
+          "orders": 11
+        },
+        {
+          "category": "喷雾",
+          "qty": 15335.0,
+          "orders": 8
+        },
+        {
+          "category": "唇釉",
+          "qty": 10704.0,
+          "orders": 10
+        },
+        {
+          "category": "腮红粉",
+          "qty": 5023.0,
+          "orders": 5
+        },
+        {
+          "category": "散粉",
+          "qty": 4043.0,
+          "orders": 5
+        },
+        {
+          "category": "粉底液",
+          "qty": 3013.0,
+          "orders": 2
+        },
+        {
+          "category": "唇油",
+          "qty": 3000.0,
+          "orders": 2
+        },
+        {
+          "category": "唇棒",
+          "qty": 2002.0,
+          "orders": 4
+        }
+      ]
+    },
+    {
+      "country": "加拿大",
+      "english": "Canada",
+      "lat": 56.1,
+      "lon": -106.3,
+      "qty": 50526.0,
+      "sales": 70500.0,
+      "rows": 121,
+      "orders": 16,
+      "a_orders": 2,
+      "b_orders": 0,
+      "c_orders": 14,
+      "unknown_orders": 0,
+      "c_order_share": 0.875,
+      "top_category": "唇膏",
+      "top_category_qty": 37512.0,
+      "spray_qty": 126.0,
+      "spray_share": 0.0025,
+      "level_counts": {
+        "C": 14,
+        "A": 2
+      },
+      "top_categories": [
+        {
+          "category": "唇膏",
+          "qty": 37512.0,
+          "orders": 2
+        },
+        {
+          "category": "唇棒",
+          "qty": 12500.0,
+          "orders": 1
+        },
+        {
+          "category": "组合品类",
+          "qty": 164.0,
+          "orders": 6
+        },
+        {
+          "category": "喷雾",
+          "qty": 126.0,
+          "orders": 6
+        },
+        {
+          "category": "外采产品",
+          "qty": 110.0,
+          "orders": 8
+        },
+        {
+          "category": "高光粉",
+          "qty": 50.0,
+          "orders": 1
+        },
+        {
+          "category": "唇油",
+          "qty": 26.0,
+          "orders": 2
+        },
+        {
+          "category": "唇釉",
+          "qty": 15.0,
+          "orders": 4
+        }
+      ]
+    },
+    {
+      "country": "乌克兰",
+      "english": "Ukraine",
+      "lat": 48.4,
+      "lon": 31.2,
+      "qty": 48828.0,
+      "sales": 50482.0,
+      "rows": 49,
+      "orders": 7,
+      "a_orders": 4,
+      "b_orders": 1,
+      "c_orders": 2,
+      "unknown_orders": 0,
+      "c_order_share": 0.2857,
+      "top_category": "眉笔/眉胶",
+      "top_category_qty": 42010.0,
+      "spray_qty": 0.0,
+      "spray_share": 0.0,
+      "level_counts": {
+        "B": 1,
+        "A": 4,
+        "C": 2
+      },
+      "top_categories": [
+        {
+          "category": "眉笔/眉胶",
+          "qty": 42010.0,
+          "orders": 3
+        },
+        {
+          "category": "眼线液笔",
+          "qty": 3000.0,
+          "orders": 2
+        },
+        {
+          "category": "组合品类",
+          "qty": 2409.0,
+          "orders": 3
+        },
+        {
+          "category": "眼线/眼影",
+          "qty": 1000.0,
+          "orders": 1
+        },
+        {
+          "category": "唇釉",
+          "qty": 400.0,
+          "orders": 2
+        },
+        {
+          "category": "外采产品",
+          "qty": 2.0,
+          "orders": 2
+        },
+        {
+          "category": "粉底液",
+          "qty": 2.0,
+          "orders": 1
+        },
+        {
+          "category": "遮瑕",
+          "qty": 2.0,
+          "orders": 1
+        }
+      ]
+    },
+    {
+      "country": "阿联酋",
+      "english": "United Arab Emirates",
+      "lat": 23.4,
+      "lon": 53.8,
+      "qty": 28252.0,
+      "sales": 65957.22,
+      "rows": 363,
+      "orders": 44,
+      "a_orders": 3,
+      "b_orders": 4,
+      "c_orders": 37,
+      "unknown_orders": 0,
+      "c_order_share": 0.8409,
+      "top_category": "唇釉",
+      "top_category_qty": 10319.0,
+      "spray_qty": 3681.0,
+      "spray_share": 0.1303,
+      "level_counts": {
+        "B": 4,
+        "C": 37,
+        "A": 3
+      },
+      "top_categories": [
+        {
+          "category": "唇釉",
+          "qty": 10319.0,
+          "orders": 14
+        },
+        {
+          "category": "组合品类",
+          "qty": 4349.0,
+          "orders": 25
+        },
+        {
+          "category": "腮红粉",
+          "qty": 4125.0,
+          "orders": 11
+        },
+        {
+          "category": "喷雾",
+          "qty": 3681.0,
+          "orders": 19
+        },
+        {
+          "category": "外采产品",
+          "qty": 2874.0,
+          "orders": 15
+        },
+        {
+          "category": "唇油",
+          "qty": 1701.0,
+          "orders": 3
+        },
+        {
+          "category": "遮瑕",
+          "qty": 1005.0,
+          "orders": 10
+        },
+        {
+          "category": "散粉",
+          "qty": 102.0,
+          "orders": 3
+        }
+      ]
+    },
+    {
+      "country": "巴基斯坦",
+      "english": "Pakistan",
+      "lat": 30.4,
+      "lon": 69.3,
+      "qty": 19274.0,
+      "sales": 147573.0,
+      "rows": 141,
+      "orders": 14,
+      "a_orders": 2,
+      "b_orders": 0,
+      "c_orders": 12,
+      "unknown_orders": 0,
+      "c_order_share": 0.8571,
+      "top_category": "腮红粉",
+      "top_category_qty": 11553.0,
+      "spray_qty": 0,
+      "spray_share": 0.0,
+      "level_counts": {
+        "C": 12,
+        "A": 2
+      },
+      "top_categories": [
+        {
+          "category": "腮红粉",
+          "qty": 11553.0,
+          "orders": 5
+        },
+        {
+          "category": "唇膏",
+          "qty": 6006.0,
+          "orders": 2
+        },
+        {
+          "category": "组合品类",
+          "qty": 1579.0,
+          "orders": 6
+        },
+        {
+          "category": "外采产品",
+          "qty": 54.0,
+          "orders": 6
+        },
+        {
+          "category": "遮瑕",
+          "qty": 33.0,
+          "orders": 4
+        },
+        {
+          "category": "唇彩",
+          "qty": 12.0,
+          "orders": 1
+        },
+        {
+          "category": "唇釉",
+          "qty": 9.0,
+          "orders": 3
+        },
+        {
+          "category": "高光粉",
+          "qty": 8.0,
+          "orders": 3
+        }
+      ]
+    },
+    {
+      "country": "立陶宛",
+      "english": "Lithuania",
+      "lat": 55.2,
+      "lon": 23.9,
+      "qty": 18702.0,
+      "sales": 30013.32,
+      "rows": 155,
+      "orders": 6,
+      "a_orders": 1,
+      "b_orders": 0,
+      "c_orders": 5,
+      "unknown_orders": 0,
+      "c_order_share": 0.8333,
+      "top_category": "卸妆水",
+      "top_category_qty": 9650.0,
+      "spray_qty": 201.0,
+      "spray_share": 0.0107,
+      "level_counts": {
+        "C": 5,
+        "A": 1
+      },
+      "top_categories": [
+        {
+          "category": "卸妆水",
+          "qty": 9650.0,
+          "orders": 4
+        },
+        {
+          "category": "组合品类",
+          "qty": 5950.0,
+          "orders": 2
+        },
+        {
+          "category": "外采产品",
+          "qty": 2487.0,
+          "orders": 4
+        },
+        {
+          "category": "喷雾",
+          "qty": 201.0,
+          "orders": 2
+        },
+        {
+          "category": "腮红粉",
+          "qty": 201.0,
+          "orders": 2
+        },
+        {
+          "category": "未分类",
+          "qty": 101.0,
+          "orders": 1
+        },
+        {
+          "category": "唇膏",
+          "qty": 100.0,
+          "orders": 1
+        },
+        {
+          "category": "唇油",
+          "qty": 4.0,
+          "orders": 1
+        }
+      ]
+    },
+    {
+      "country": "英国",
+      "english": "United Kingdom",
+      "lat": 55.4,
+      "lon": -3.4,
+      "qty": 16596.0,
+      "sales": 41235.0,
+      "rows": 481,
+      "orders": 61,
+      "a_orders": 4,
+      "b_orders": 2,
+      "c_orders": 55,
+      "unknown_orders": 0,
+      "c_order_share": 0.9016,
+      "top_category": "组合品类",
+      "top_category_qty": 5861.0,
+      "spray_qty": 2522.0,
+      "spray_share": 0.152,
+      "level_counts": {
+        "C": 55,
+        "A": 4,
+        "B": 2
+      },
+      "top_categories": [
+        {
+          "category": "组合品类",
+          "qty": 5861.0,
+          "orders": 34
+        },
+        {
+          "category": "喷雾",
+          "qty": 2522.0,
+          "orders": 29
+        },
+        {
+          "category": "唇釉",
+          "qty": 2347.0,
+          "orders": 10
+        },
+        {
+          "category": "遮瑕",
+          "qty": 1446.0,
+          "orders": 24
+        },
+        {
+          "category": "外采产品",
+          "qty": 1219.0,
+          "orders": 9
+        },
+        {
+          "category": "液体腮红",
+          "qty": 718.0,
+          "orders": 8
+        },
+        {
+          "category": "粉底液",
+          "qty": 523.0,
+          "orders": 14
+        },
+        {
+          "category": "腮红粉",
+          "qty": 512.0,
+          "orders": 11
+        }
+      ]
+    },
+    {
+      "country": "赞比亚",
+      "english": "Zambia",
+      "lat": -13.1,
+      "lon": 27.8,
+      "qty": 16026.0,
+      "sales": 41921.0,
+      "rows": 52,
+      "orders": 11,
+      "a_orders": 4,
+      "b_orders": 1,
+      "c_orders": 7,
+      "unknown_orders": 0,
+      "c_order_share": 0.6364,
+      "top_category": "粉底液",
+      "top_category_qty": 6012.0,
+      "spray_qty": 3704.0,
+      "spray_share": 0.2311,
+      "level_counts": {
+        "C": 7,
+        "A": 4,
+        "B": 1
+      },
+      "top_categories": [
+        {
+          "category": "粉底液",
+          "qty": 6012.0,
+          "orders": 3
+        },
+        {
+          "category": "喷雾",
+          "qty": 3704.0,
+          "orders": 8
+        },
+        {
+          "category": "组合品类",
+          "qty": 2500.0,
+          "orders": 3
+        },
+        {
+          "category": "遮瑕",
+          "qty": 2000.0,
+          "orders": 1
+        },
+        {
+          "category": "黑瓶哑光*800",
+          "qty": 800.0,
+          "orders": 1
+        },
+        {
+          "category": "外采产品",
+          "qty": 500.0,
+          "orders": 1
+        },
+        {
+          "category": "妆前乳",
+          "qty": 500.0,
+          "orders": 1
+        },
+        {
+          "category": "未分类",
+          "qty": 10.0,
+          "orders": 1
+        }
+      ]
+    },
+    {
+      "country": "柬埔寨",
+      "english": "Cambodia",
+      "lat": 12.6,
+      "lon": 104.9,
+      "qty": 14868.0,
+      "sales": 129103.0,
+      "rows": 83,
+      "orders": 11,
+      "a_orders": 5,
+      "b_orders": 0,
+      "c_orders": 6,
+      "unknown_orders": 0,
+      "c_order_share": 0.5455,
+      "top_category": "气垫",
+      "top_category_qty": 14152.0,
+      "spray_qty": 3.0,
+      "spray_share": 0.0002,
+      "level_counts": {
+        "C": 6,
+        "A": 5
+      },
+      "top_categories": [
+        {
+          "category": "气垫",
+          "qty": 14152.0,
+          "orders": 5
+        },
+        {
+          "category": "组合品类",
+          "qty": 357.0,
+          "orders": 6
+        },
+        {
+          "category": "外采产品",
+          "qty": 302.0,
+          "orders": 2
+        },
+        {
+          "category": "粉底液",
+          "qty": 32.0,
+          "orders": 3
+        },
+        {
+          "category": "腮红粉",
+          "qty": 18.0,
+          "orders": 3
+        },
+        {
+          "category": "喷雾",
+          "qty": 3.0,
+          "orders": 2
+        },
+        {
+          "category": "CC霜",
+          "qty": 2.0,
+          "orders": 1
+        },
+        {
+          "category": "散粉",
+          "qty": 1.0,
+          "orders": 1
+        }
+      ]
+    },
+    {
+      "country": "吉尔吉斯斯坦",
+      "english": "Kyrgyzstan",
+      "lat": 41.2,
+      "lon": 74.8,
+      "qty": 14000.0,
+      "sales": 54212.0,
+      "rows": 3,
+      "orders": 1,
+      "a_orders": 1,
+      "b_orders": 0,
+      "c_orders": 0,
+      "unknown_orders": 0,
+      "c_order_share": 0.0,
+      "top_category": "空包材",
+      "top_category_qty": 10000.0,
+      "spray_qty": 2000.0,
+      "spray_share": 0.1429,
+      "level_counts": {
+        "A": 1
+      },
+      "top_categories": [
+        {
+          "category": "空包材",
+          "qty": 10000.0,
+          "orders": 1
+        },
+        {
+          "category": "喷雾",
+          "qty": 2000.0,
+          "orders": 1
+        },
+        {
+          "category": "组合品类",
+          "qty": 2000.0,
+          "orders": 1
+        }
+      ]
+    },
+    {
+      "country": "加纳",
+      "english": "Ghana",
+      "lat": 7.9,
+      "lon": -1.0,
+      "qty": 12348.0,
+      "sales": 26114.0,
+      "rows": 83,
+      "orders": 17,
+      "a_orders": 7,
+      "b_orders": 4,
+      "c_orders": 6,
+      "unknown_orders": 0,
+      "c_order_share": 0.3529,
+      "top_category": "喷雾",
+      "top_category_qty": 3212.0,
+      "spray_qty": 3212.0,
+      "spray_share": 0.2601,
+      "level_counts": {
+        "B": 4,
+        "C": 6,
+        "A": 7
+      },
+      "top_categories": [
+        {
+          "category": "喷雾",
+          "qty": 3212.0,
+          "orders": 7
+        },
+        {
+          "category": "组合品类",
+          "qty": 3118.0,
+          "orders": 5
+        },
+        {
+          "category": "粉底液",
+          "qty": 2403.0,
+          "orders": 4
+        },
+        {
+          "category": "粉色瓶水光*1000",
+          "qty": 2000.0,
+          "orders": 1
+        },
+        {
+          "category": "唇油",
+          "qty": 1000.0,
+          "orders": 1
+        },
+        {
+          "category": "妆前乳",
+          "qty": 502.0,
+          "orders": 2
+        },
+        {
+          "category": "散粉",
+          "qty": 58.0,
+          "orders": 8
+        },
+        {
+          "category": "遮瑕",
+          "qty": 44.0,
+          "orders": 3
+        }
+      ]
+    },
+    {
+      "country": "黎巴嫩",
+      "english": "Lebanon",
+      "lat": 33.9,
+      "lon": 35.9,
+      "qty": 11497.0,
+      "sales": 10673.0,
+      "rows": 116,
+      "orders": 15,
+      "a_orders": 2,
+      "b_orders": 2,
+      "c_orders": 11,
+      "unknown_orders": 0,
+      "c_order_share": 0.7333,
+      "top_category": "粉底液",
+      "top_category_qty": 7103.0,
+      "spray_qty": 513.0,
+      "spray_share": 0.0446,
+      "level_counts": {
+        "C": 11,
+        "A": 2,
+        "B": 2
+      },
+      "top_categories": [
+        {
+          "category": "粉底液",
+          "qty": 7103.0,
+          "orders": 3
+        },
+        {
+          "category": "组合品类",
+          "qty": 1545.0,
+          "orders": 5
+        },
+        {
+          "category": "遮瑕",
+          "qty": 1230.0,
+          "orders": 3
+        },
+        {
+          "category": "外采产品",
+          "qty": 519.0,
+          "orders": 5
+        },
+        {
+          "category": "喷雾",
+          "qty": 513.0,
+          "orders": 5
+        },
+        {
+          "category": "散粉",
+          "qty": 501.0,
+          "orders": 2
+        },
+        {
+          "category": "唇油",
+          "qty": 29.0,
+          "orders": 4
+        },
+        {
+          "category": "唇釉",
+          "qty": 29.0,
+          "orders": 3
+        }
+      ]
+    },
+    {
+      "country": "俄罗斯",
+      "english": "Russia",
+      "lat": 61.5,
+      "lon": 105.3,
+      "qty": 11480.0,
+      "sales": 4.40452694881853e+19,
+      "rows": 47,
+      "orders": 6,
+      "a_orders": 3,
+      "b_orders": 0,
+      "c_orders": 3,
+      "unknown_orders": 0,
+      "c_order_share": 0.5,
+      "top_category": "散粉",
+      "top_category_qty": 10000.0,
+      "spray_qty": 0.0,
+      "spray_share": 0.0,
+      "level_counts": {
+        "C": 3,
+        "A": 3
+      },
+      "top_categories": [
+        {
+          "category": "散粉",
+          "qty": 10000.0,
+          "orders": 1
+        },
+        {
+          "category": "腮红粉",
+          "qty": 820.0,
+          "orders": 3
+        },
+        {
+          "category": "组合品类",
+          "qty": 619.0,
+          "orders": 2
+        },
+        {
+          "category": "未分类",
+          "qty": 18.0,
+          "orders": 1
+        },
+        {
+          "category": "粉底液",
+          "qty": 9.0,
+          "orders": 1
+        },
+        {
+          "category": "修容粉",
+          "qty": 5.0,
+          "orders": 1
+        },
+        {
+          "category": "Lip Mark",
+          "qty": 3.0,
+          "orders": 1
+        },
+        {
+          "category": "唇部马克笔 Lip Mark*3",
+          "qty": 3.0,
+          "orders": 1
+        }
+      ]
+    },
+    {
+      "country": "南非",
+      "english": "South Africa",
+      "lat": -30.6,
+      "lon": 22.9,
+      "qty": 7936.0,
+      "sales": 18015.98,
+      "rows": 158,
+      "orders": 11,
+      "a_orders": 0,
+      "b_orders": 0,
+      "c_orders": 11,
+      "unknown_orders": 0,
+      "c_order_share": 1.0,
+      "top_category": "组合品类",
+      "top_category_qty": 3951.0,
+      "spray_qty": 738.0,
+      "spray_share": 0.093,
+      "level_counts": {
+        "C": 11
+      },
+      "top_categories": [
+        {
+          "category": "组合品类",
+          "qty": 3951.0,
+          "orders": 9
+        },
+        {
+          "category": "外采产品",
+          "qty": 1347.0,
+          "orders": 5
+        },
+        {
+          "category": "粉底液",
+          "qty": 1072.0,
+          "orders": 6
+        },
+        {
+          "category": "喷雾",
+          "qty": 738.0,
+          "orders": 8
+        },
+        {
+          "category": "唇釉",
+          "qty": 427.0,
+          "orders": 6
+        },
+        {
+          "category": "遮瑕",
+          "qty": 335.0,
+          "orders": 6
+        },
+        {
+          "category": "腮红粉",
+          "qty": 32.0,
+          "orders": 5
+        },
+        {
+          "category": "高光粉",
+          "qty": 16.0,
+          "orders": 2
+        }
+      ]
+    },
+    {
+      "country": "瑞典",
+      "english": "Sweden",
+      "lat": 60.1,
+      "lon": 18.6,
+      "qty": 7046.0,
+      "sales": 20.0,
+      "rows": 19,
+      "orders": 3,
+      "a_orders": 2,
+      "b_orders": 0,
+      "c_orders": 1,
+      "unknown_orders": 0,
+      "c_order_share": 0.3333,
+      "top_category": "组合品类",
+      "top_category_qty": 3521.0,
+      "spray_qty": 4.0,
+      "spray_share": 0.0006,
+      "level_counts": {
+        "A": 2,
+        "C": 1
+      },
+      "top_categories": [
+        {
+          "category": "组合品类",
+          "qty": 3521.0,
+          "orders": 2
+        },
+        {
+          "category": "唇膏",
+          "qty": 2003.0,
+          "orders": 2
+        },
+        {
+          "category": "未分类",
+          "qty": 1015.0,
+          "orders": 2
+        },
+        {
+          "category": "唇釉",
+          "qty": 503.0,
+          "orders": 2
+        },
+        {
+          "category": "喷雾",
+          "qty": 4.0,
+          "orders": 1
+        }
+      ]
+    },
+    {
+      "country": "罗马尼亚",
+      "english": "Romania",
+      "lat": 45.9,
+      "lon": 24.9,
+      "qty": 5644.0,
+      "sales": 3348.3,
+      "rows": 172,
+      "orders": 8,
+      "a_orders": 0,
+      "b_orders": 0,
+      "c_orders": 8,
+      "unknown_orders": 0,
+      "c_order_share": 1.0,
+      "top_category": "组合品类",
+      "top_category_qty": 2815.0,
+      "spray_qty": 105.0,
+      "spray_share": 0.0186,
+      "level_counts": {
+        "C": 8
+      },
+      "top_categories": [
+        {
+          "category": "组合品类",
+          "qty": 2815.0,
+          "orders": 7
+        },
+        {
+          "category": "遮瑕",
+          "qty": 803.0,
+          "orders": 4
+        },
+        {
+          "category": "唇釉",
+          "qty": 521.0,
+          "orders": 5
+        },
+        {
+          "category": "修容粉",
+          "qty": 307.0,
+          "orders": 3
+        },
+        {
+          "category": "散粉",
+          "qty": 307.0,
+          "orders": 4
+        },
+        {
+          "category": "高光粉",
+          "qty": 306.0,
+          "orders": 3
+        },
+        {
+          "category": "腮红粉",
+          "qty": 303.0,
+          "orders": 4
+        },
+        {
+          "category": "妆前乳",
+          "qty": 108.0,
+          "orders": 4
+        }
+      ]
+    },
+    {
+      "country": "多米尼加",
+      "english": "Dominican Republic",
+      "lat": 18.7,
+      "lon": -70.2,
+      "qty": 5501.0,
+      "sales": 12263.2,
+      "rows": 231,
+      "orders": 14,
+      "a_orders": 0,
+      "b_orders": 0,
+      "c_orders": 14,
+      "unknown_orders": 0,
+      "c_order_share": 1.0,
+      "top_category": "组合品类",
+      "top_category_qty": 2220.0,
+      "spray_qty": 150.0,
+      "spray_share": 0.0273,
+      "level_counts": {
+        "C": 14
+      },
+      "top_categories": [
+        {
+          "category": "组合品类",
+          "qty": 2220.0,
+          "orders": 10
+        },
+        {
+          "category": "外采产品",
+          "qty": 840.0,
+          "orders": 5
+        },
+        {
+          "category": "遮瑕",
+          "qty": 795.0,
+          "orders": 6
+        },
+        {
+          "category": "腮红粉",
+          "qty": 551.0,
+          "orders": 6
+        },
+        {
+          "category": "粉底液",
+          "qty": 495.0,
+          "orders": 3
+        },
+        {
+          "category": "喷雾",
+          "qty": 150.0,
+          "orders": 3
+        },
+        {
+          "category": "修容粉",
+          "qty": 100.0,
+          "orders": 2
+        },
+        {
+          "category": "液体腮红",
+          "qty": 100.0,
+          "orders": 1
+        }
+      ]
+    },
+    {
+      "country": "科威特",
+      "english": "Kuwait",
+      "lat": 29.3,
+      "lon": 47.5,
+      "qty": 5236.0,
+      "sales": 17216.1,
+      "rows": 298,
+      "orders": 22,
+      "a_orders": 1,
+      "b_orders": 0,
+      "c_orders": 21,
+      "unknown_orders": 0,
+      "c_order_share": 0.9545,
+      "top_category": "唇釉",
+      "top_category_qty": 2078.0,
+      "spray_qty": 112.0,
+      "spray_share": 0.0214,
+      "level_counts": {
+        "C": 21,
+        "A": 1
+      },
+      "top_categories": [
+        {
+          "category": "唇釉",
+          "qty": 2078.0,
+          "orders": 8
+        },
+        {
+          "category": "眼影盘",
+          "qty": 1000.0,
+          "orders": 1
+        },
+        {
+          "category": "眼线/眼影",
+          "qty": 1000.0,
+          "orders": 1
+        },
+        {
+          "category": "组合品类",
+          "qty": 462.0,
+          "orders": 13
+        },
+        {
+          "category": "散粉",
+          "qty": 200.0,
+          "orders": 2
+        },
+        {
+          "category": "腮红粉",
+          "qty": 141.0,
+          "orders": 6
+        },
+        {
+          "category": "喷雾",
+          "qty": 112.0,
+          "orders": 7
+        },
+        {
+          "category": "高光粉",
+          "qty": 62.0,
+          "orders": 6
+        }
+      ]
+    },
+    {
+      "country": "西班牙",
+      "english": "Spain",
+      "lat": 40.5,
+      "lon": -3.7,
+      "qty": 5212.0,
+      "sales": 11482.75,
+      "rows": 13,
+      "orders": 2,
+      "a_orders": 0,
+      "b_orders": 0,
+      "c_orders": 2,
+      "unknown_orders": 0,
+      "c_order_share": 1.0,
+      "top_category": "组合品类",
+      "top_category_qty": 2505.0,
+      "spray_qty": 1005.0,
+      "spray_share": 0.1928,
+      "level_counts": {
+        "C": 2
+      },
+      "top_categories": [
+        {
+          "category": "组合品类",
+          "qty": 2505.0,
+          "orders": 1
+        },
+        {
+          "category": "喷雾",
+          "qty": 1005.0,
+          "orders": 1
+        },
+        {
+          "category": "腮红粉",
+          "qty": 802.0,
+          "orders": 2
+        },
+        {
+          "category": "外采产品",
+          "qty": 500.0,
+          "orders": 1
+        },
+        {
+          "category": "高光粉",
+          "qty": 400.0,
+          "orders": 1
+        }
+      ]
+    },
+    {
+      "country": "卡塔尔",
+      "english": "Qatar",
+      "lat": 25.4,
+      "lon": 51.2,
+      "qty": 4536.0,
+      "sales": 5966.8,
+      "rows": 112,
+      "orders": 8,
+      "a_orders": 0,
+      "b_orders": 0,
+      "c_orders": 8,
+      "unknown_orders": 0,
+      "c_order_share": 1.0,
+      "top_category": "组合品类",
+      "top_category_qty": 2268.0,
+      "spray_qty": 100.0,
+      "spray_share": 0.022,
+      "level_counts": {
+        "C": 8
+      },
+      "top_categories": [
+        {
+          "category": "组合品类",
+          "qty": 2268.0,
+          "orders": 8
+        },
+        {
+          "category": "唇釉",
+          "qty": 1209.0,
+          "orders": 2
+        },
+        {
+          "category": "外采产品",
+          "qty": 626.0,
+          "orders": 5
+        },
+        {
+          "category": "遮瑕",
+          "qty": 314.0,
+          "orders": 4
+        },
+        {
+          "category": "喷雾",
+          "qty": 100.0,
+          "orders": 1
+        },
+        {
+          "category": "腮红粉",
+          "qty": 9.0,
+          "orders": 2
+        },
+        {
+          "category": "粉底液",
+          "qty": 4.0,
+          "orders": 2
+        },
+        {
+          "category": "散粉",
+          "qty": 3.0,
+          "orders": 1
+        }
+      ]
+    },
+    {
+      "country": "德国",
+      "english": "Germany",
+      "lat": 51.2,
+      "lon": 10.4,
+      "qty": 3920.0,
+      "sales": 11829.0,
+      "rows": 131,
+      "orders": 17,
+      "a_orders": 6,
+      "b_orders": 0,
+      "c_orders": 11,
+      "unknown_orders": 0,
+      "c_order_share": 0.6471,
+      "top_category": "组合品类",
+      "top_category_qty": 1790.0,
+      "spray_qty": 101.0,
+      "spray_share": 0.0258,
+      "level_counts": {
+        "C": 11,
+        "A": 6
+      },
+      "top_categories": [
+        {
+          "category": "组合品类",
+          "qty": 1790.0,
+          "orders": 6
+        },
+        {
+          "category": "散粉",
+          "qty": 1204.0,
+          "orders": 2
+        },
+        {
+          "category": "液体腮红",
+          "qty": 454.0,
+          "orders": 2
+        },
+        {
+          "category": "遮瑕",
+          "qty": 245.0,
+          "orders": 4
+        },
+        {
+          "category": "喷雾",
+          "qty": 101.0,
+          "orders": 4
+        },
+        {
+          "category": "唇釉",
+          "qty": 34.0,
+          "orders": 3
+        },
+        {
+          "category": "修容粉",
+          "qty": 26.0,
+          "orders": 4
+        },
+        {
+          "category": "未分类",
+          "qty": 16.0,
+          "orders": 1
+        }
+      ]
+    },
+    {
+      "country": "特立尼达和多巴哥",
+      "english": "Trinidad and Tobago",
+      "lat": 10.7,
+      "lon": -61.2,
+      "qty": 3822.0,
+      "sales": 13720.78,
+      "rows": 31,
+      "orders": 7,
+      "a_orders": 0,
+      "b_orders": 1,
+      "c_orders": 6,
+      "unknown_orders": 0,
+      "c_order_share": 0.8571,
+      "top_category": "喷雾",
+      "top_category_qty": 2206.0,
+      "spray_qty": 2206.0,
+      "spray_share": 0.5772,
+      "level_counts": {
+        "C": 6,
+        "B": 1
+      },
+      "top_categories": [
+        {
+          "category": "喷雾",
+          "qty": 2206.0,
+          "orders": 6
+        },
+        {
+          "category": "组合品类",
+          "qty": 1410.0,
+          "orders": 5
+        },
+        {
+          "category": "妆前乳",
+          "qty": 200.0,
+          "orders": 2
+        },
+        {
+          "category": "外采产品",
+          "qty": 4.0,
+          "orders": 1
+        },
+        {
+          "category": "散粉",
+          "qty": 1.0,
+          "orders": 1
+        },
+        {
+          "category": "粉底液",
+          "qty": 1.0,
+          "orders": 2
+        },
+        {
+          "category": "遮瑕",
+          "qty": 0.0,
+          "orders": 2
+        },
+        {
+          "category": "腮红粉",
+          "qty": 0.0,
+          "orders": 2
+        }
+      ]
+    },
+    {
+      "country": "蒙古",
+      "english": "Mongolia",
+      "lat": 46.9,
+      "lon": 103.8,
+      "qty": 3800.0,
+      "sales": 48903.0,
+      "rows": 12,
+      "orders": 2,
+      "a_orders": 0,
+      "b_orders": 0,
+      "c_orders": 2,
+      "unknown_orders": 0,
+      "c_order_share": 1.0,
+      "top_category": "粉底液",
+      "top_category_qty": 3000.0,
+      "spray_qty": 0.0,
+      "spray_share": 0.0,
+      "level_counts": {
+        "C": 2
+      },
+      "top_categories": [
+        {
+          "category": "粉底液",
+          "qty": 3000.0,
+          "orders": 2
+        },
+        {
+          "category": "组合品类",
+          "qty": 800.0,
+          "orders": 1
+        },
+        {
+          "category": "喷雾",
+          "qty": 0.0,
+          "orders": 1
+        },
+        {
+          "category": "遮瑕",
+          "qty": 0.0,
+          "orders": 1
+        }
+      ]
+    },
+    {
+      "country": "肯尼亚",
+      "english": "Kenya",
+      "lat": -0.0,
+      "lon": 37.9,
+      "qty": 3436.0,
+      "sales": 11639.0,
+      "rows": 52,
+      "orders": 4,
+      "a_orders": 0,
+      "b_orders": 0,
+      "c_orders": 4,
+      "unknown_orders": 0,
+      "c_order_share": 1.0,
+      "top_category": "组合品类",
+      "top_category_qty": 1718.0,
+      "spray_qty": 0.0,
+      "spray_share": 0.0,
+      "level_counts": {
+        "C": 4
+      },
+      "top_categories": [
+        {
+          "category": "组合品类",
+          "qty": 1718.0,
+          "orders": 4
+        },
+        {
+          "category": "粉底液",
+          "qty": 1407.0,
+          "orders": 4
+        },
+        {
+          "category": "遮瑕",
+          "qty": 203.0,
+          "orders": 2
+        },
+        {
+          "category": "外采产品",
+          "qty": 108.0,
+          "orders": 1
+        },
+        {
+          "category": "喷雾",
+          "qty": 0.0,
+          "orders": 2
+        },
+        {
+          "category": "唇釉",
+          "qty": 0.0,
+          "orders": 1
+        }
+      ]
+    },
+    {
+      "country": "荷兰",
+      "english": "Netherlands",
+      "lat": 52.1,
+      "lon": 5.3,
+      "qty": 3436.0,
+      "sales": 8884.59,
+      "rows": 190,
+      "orders": 13,
+      "a_orders": 0,
+      "b_orders": 0,
+      "c_orders": 13,
+      "unknown_orders": 0,
+      "c_order_share": 1.0,
+      "top_category": "组合品类",
+      "top_category_qty": 1607.0,
+      "spray_qty": 610.0,
+      "spray_share": 0.1775,
+      "level_counts": {
+        "C": 13
+      },
+      "top_categories": [
+        {
+          "category": "组合品类",
+          "qty": 1607.0,
+          "orders": 9
+        },
+        {
+          "category": "喷雾",
+          "qty": 610.0,
+          "orders": 8
+        },
+        {
+          "category": "外采产品",
+          "qty": 270.0,
+          "orders": 7
+        },
+        {
+          "category": "遮瑕",
+          "qty": 221.0,
+          "orders": 7
+        },
+        {
+          "category": "液体腮红",
+          "qty": 200.0,
+          "orders": 2
+        },
+        {
+          "category": "粉底液",
+          "qty": 161.0,
+          "orders": 4
+        },
+        {
+          "category": "散粉",
+          "qty": 132.0,
+          "orders": 4
+        },
+        {
+          "category": "腮红粉",
+          "qty": 107.0,
+          "orders": 3
+        }
+      ]
+    },
+    {
+      "country": "莫桑比克",
+      "english": "Mozambique",
+      "lat": -18.7,
+      "lon": 35.5,
+      "qty": 3096.0,
+      "sales": 8622.5,
+      "rows": 97,
+      "orders": 11,
+      "a_orders": 0,
+      "b_orders": 0,
+      "c_orders": 11,
+      "unknown_orders": 0,
+      "c_order_share": 1.0,
+      "top_category": "组合品类",
+      "top_category_qty": 1245.0,
+      "spray_qty": 509.0,
+      "spray_share": 0.1644,
+      "level_counts": {
+        "C": 11
+      },
+      "top_categories": [
+        {
+          "category": "组合品类",
+          "qty": 1245.0,
+          "orders": 9
+        },
+        {
+          "category": "遮瑕",
+          "qty": 600.0,
+          "orders": 2
+        },
+        {
+          "category": "喷雾",
+          "qty": 509.0,
+          "orders": 5
+        },
+        {
+          "category": "唇釉",
+          "qty": 451.0,
+          "orders": 3
+        },
+        {
+          "category": "外采产品",
+          "qty": 217.0,
+          "orders": 5
+        },
+        {
+          "category": "散粉",
+          "qty": 50.0,
+          "orders": 2
+        },
+        {
+          "category": "粉底液",
+          "qty": 23.0,
+          "orders": 3
+        },
+        {
+          "category": "修容粉",
+          "qty": 1.0,
+          "orders": 1
+        }
+      ]
+    },
+    {
+      "country": "波兰",
+      "english": "Poland",
+      "lat": 51.9,
+      "lon": 19.1,
+      "qty": 3073.0,
+      "sales": 1523.0,
+      "rows": 67,
+      "orders": 8,
+      "a_orders": 0,
+      "b_orders": 0,
+      "c_orders": 8,
+      "unknown_orders": 0,
+      "c_order_share": 1.0,
+      "top_category": "组合品类",
+      "top_category_qty": 1227.0,
+      "spray_qty": 0,
+      "spray_share": 0.0,
+      "level_counts": {
+        "C": 8
+      },
+      "top_categories": [
+        {
+          "category": "组合品类",
+          "qty": 1227.0,
+          "orders": 5
+        },
+        {
+          "category": "外采产品",
+          "qty": 1108.0,
+          "orders": 6
+        },
+        {
+          "category": "腮红粉",
+          "qty": 307.0,
+          "orders": 3
+        },
+        {
+          "category": "唇釉",
+          "qty": 201.0,
+          "orders": 3
+        },
+        {
+          "category": "套盒1*100 套盒2*100",
+          "qty": 200.0,
+          "orders": 1
+        },
+        {
+          "category": "遮瑕",
+          "qty": 17.0,
+          "orders": 3
+        },
+        {
+          "category": "修容粉",
+          "qty": 4.0,
+          "orders": 1
+        },
+        {
+          "category": "高光粉",
+          "qty": 3.0,
+          "orders": 1
+        }
+      ]
+    },
+    {
+      "country": "也门",
+      "english": "Yemen",
+      "lat": 15.6,
+      "lon": 48.5,
+      "qty": 2900.0,
+      "sales": 64289.36,
+      "rows": 20,
+      "orders": 1,
+      "a_orders": 0,
+      "b_orders": 0,
+      "c_orders": 1,
+      "unknown_orders": 0,
+      "c_order_share": 1.0,
+      "top_category": "组合品类",
+      "top_category_qty": 1450.0,
+      "spray_qty": 462.0,
+      "spray_share": 0.1593,
+      "level_counts": {
+        "C": 1
+      },
+      "top_categories": [
+        {
+          "category": "组合品类",
+          "qty": 1450.0,
+          "orders": 1
+        },
+        {
+          "category": "喷雾",
+          "qty": 462.0,
+          "orders": 1
+        },
+        {
+          "category": "腮红粉",
+          "qty": 380.0,
+          "orders": 1
+        },
+        {
+          "category": "高光粉",
+          "qty": 380.0,
+          "orders": 1
+        },
+        {
+          "category": "粉底液",
+          "qty": 228.0,
+          "orders": 1
+        },
+        {
+          "category": "遮瑕",
+          "qty": 0.0,
+          "orders": 1
+        }
+      ]
+    },
+    {
+      "country": "法国",
+      "english": "France",
+      "lat": 46.2,
+      "lon": 2.2,
+      "qty": 2694.0,
+      "sales": 8847.52,
+      "rows": 197,
+      "orders": 22,
+      "a_orders": 1,
+      "b_orders": 0,
+      "c_orders": 21,
+      "unknown_orders": 0,
+      "c_order_share": 0.9545,
+      "top_category": "组合品类",
+      "top_category_qty": 1207.0,
+      "spray_qty": 451.0,
+      "spray_share": 0.1674,
+      "level_counts": {
+        "C": 21,
+        "A": 1
+      },
+      "top_categories": [
+        {
+          "category": "组合品类",
+          "qty": 1207.0,
+          "orders": 12
+        },
+        {
+          "category": "喷雾",
+          "qty": 451.0,
+          "orders": 13
+        },
+        {
+          "category": "粉底液",
+          "qty": 316.0,
+          "orders": 7
+        },
+        {
+          "category": "唇釉",
+          "qty": 236.0,
+          "orders": 6
+        },
+        {
+          "category": "遮瑕",
+          "qty": 221.0,
+          "orders": 10
+        },
+        {
+          "category": "腮红粉",
+          "qty": 215.0,
+          "orders": 5
+        },
+        {
+          "category": "外采产品",
+          "qty": 27.0,
+          "orders": 5
+        },
+        {
+          "category": "高光粉",
+          "qty": 12.0,
+          "orders": 2
+        }
+      ]
+    },
+    {
+      "country": "尼泊尔",
+      "english": "Nepal",
+      "lat": 28.4,
+      "lon": 84.1,
+      "qty": 2600.0,
+      "sales": 6530.0,
+      "rows": 18,
+      "orders": 3,
+      "a_orders": 0,
+      "b_orders": 1,
+      "c_orders": 2,
+      "unknown_orders": 0,
+      "c_order_share": 0.6667,
+      "top_category": "腮红粉",
+      "top_category_qty": 1300.0,
+      "spray_qty": 500.0,
+      "spray_share": 0.1923,
+      "level_counts": {
+        "C": 2,
+        "B": 1
+      },
+      "top_categories": [
+        {
+          "category": "腮红粉",
+          "qty": 1300.0,
+          "orders": 2
+        },
+        {
+          "category": "组合品类",
+          "qty": 800.0,
+          "orders": 2
+        },
+        {
+          "category": "喷雾",
+          "qty": 500.0,
+          "orders": 1
+        },
+        {
+          "category": "遮瑕",
+          "qty": 0.0,
+          "orders": 1
+        },
+        {
+          "category": "散粉",
+          "qty": 0.0,
+          "orders": 1
+        },
+        {
+          "category": "唇釉",
+          "qty": 0.0,
+          "orders": 1
+        },
+        {
+          "category": "高光粉",
+          "qty": 0.0,
+          "orders": 1
+        }
+      ]
+    },
+    {
+      "country": "埃及",
+      "english": "Egypt",
+      "lat": 26.8,
+      "lon": 30.8,
+      "qty": 2474.0,
+      "sales": 7101.0,
+      "rows": 63,
+      "orders": 5,
+      "a_orders": 0,
+      "b_orders": 0,
+      "c_orders": 5,
+      "unknown_orders": 0,
+      "c_order_share": 1.0,
+      "top_category": "组合品类",
+      "top_category_qty": 1234.0,
+      "spray_qty": 0.0,
+      "spray_share": 0.0,
+      "level_counts": {
+        "C": 5
+      },
+      "top_categories": [
+        {
+          "category": "组合品类",
+          "qty": 1234.0,
+          "orders": 4
+        },
+        {
+          "category": "粉底液",
+          "qty": 705.0,
+          "orders": 2
+        },
+        {
+          "category": "遮瑕",
+          "qty": 522.0,
+          "orders": 4
+        },
+        {
+          "category": "腮红粉",
+          "qty": 10.0,
+          "orders": 3
+        },
+        {
+          "category": "唇油",
+          "qty": 1.0,
+          "orders": 1
+        },
+        {
+          "category": "唇釉",
+          "qty": 1.0,
+          "orders": 1
+        },
+        {
+          "category": "散粉",
+          "qty": 1.0,
+          "orders": 2
+        },
+        {
+          "category": "喷雾",
+          "qty": 0.0,
+          "orders": 1
+        }
+      ]
+    },
+    {
+      "country": "尼日利亚",
+      "english": "Nigeria",
+      "lat": 9.1,
+      "lon": 8.7,
+      "qty": 2020.0,
+      "sales": 5351.1,
+      "rows": 101,
+      "orders": 10,
+      "a_orders": 0,
+      "b_orders": 0,
+      "c_orders": 10,
+      "unknown_orders": 0,
+      "c_order_share": 1.0,
+      "top_category": "组合品类",
+      "top_category_qty": 650.0,
+      "spray_qty": 606.0,
+      "spray_share": 0.3,
+      "level_counts": {
+        "C": 10
+      },
+      "top_categories": [
+        {
+          "category": "组合品类",
+          "qty": 650.0,
+          "orders": 6
+        },
+        {
+          "category": "喷雾",
+          "qty": 606.0,
+          "orders": 6
+        },
+        {
+          "category": "外采产品",
+          "qty": 308.0,
+          "orders": 3
+        },
+        {
+          "category": "唇釉",
+          "qty": 114.0,
+          "orders": 3
+        },
+        {
+          "category": "遮瑕",
+          "qty": 103.0,
+          "orders": 2
+        },
+        {
+          "category": "腮红粉",
+          "qty": 102.0,
+          "orders": 1
+        },
+        {
+          "category": "睫毛膏",
+          "qty": 102.0,
+          "orders": 2
+        },
+        {
+          "category": "粉底液",
+          "qty": 29.0,
+          "orders": 2
+        }
+      ]
+    },
+    {
+      "country": "葡萄牙",
+      "english": "Portugal",
+      "lat": 39.4,
+      "lon": -8.2,
+      "qty": 2006.0,
+      "sales": 4155.0,
+      "rows": 29,
+      "orders": 3,
+      "a_orders": 0,
+      "b_orders": 0,
+      "c_orders": 3,
+      "unknown_orders": 0,
+      "c_order_share": 1.0,
+      "top_category": "外采产品",
+      "top_category_qty": 503.0,
+      "spray_qty": 0,
+      "spray_share": 0.0,
+      "level_counts": {
+        "C": 3
+      },
+      "top_categories": [
+        {
+          "category": "外采产品",
+          "qty": 503.0,
+          "orders": 3
+        },
+        {
+          "category": "唇油",
+          "qty": 503.0,
+          "orders": 2
+        },
+        {
+          "category": "唇釉",
+          "qty": 500.0,
+          "orders": 1
+        },
+        {
+          "category": "组合品类",
+          "qty": 500.0,
+          "orders": 1
+        },
+        {
+          "category": "遮瑕",
+          "qty": 0.0,
+          "orders": 1
+        }
+      ]
+    },
+    {
+      "country": "坦桑尼亚",
+      "english": "Tanzania",
+      "lat": -6.4,
+      "lon": 34.9,
+      "qty": 1734.0,
+      "sales": 4614.0,
+      "rows": 37,
+      "orders": 3,
+      "a_orders": 0,
+      "b_orders": 0,
+      "c_orders": 3,
+      "unknown_orders": 0,
+      "c_order_share": 1.0,
+      "top_category": "组合品类",
+      "top_category_qty": 866.0,
+      "spray_qty": 102.0,
+      "spray_share": 0.0588,
+      "level_counts": {
+        "C": 3
+      },
+      "top_categories": [
+        {
+          "category": "组合品类",
+          "qty": 866.0,
+          "orders": 2
+        },
+        {
+          "category": "粉底液",
+          "qty": 508.0,
+          "orders": 1
+        },
+        {
+          "category": "遮瑕",
+          "qty": 258.0,
+          "orders": 2
+        },
+        {
+          "category": "喷雾",
+          "qty": 102.0,
+          "orders": 2
+        },
+        {
+          "category": "腮红粉",
+          "qty": 0.0,
+          "orders": 1
+        },
+        {
+          "category": "眉笔",
+          "qty": 0.0,
+          "orders": 1
+        }
+      ]
+    },
+    {
+      "country": "冰岛",
+      "english": "Iceland",
+      "lat": 64.9,
+      "lon": -19.0,
+      "qty": 1220.0,
+      "sales": 2197.0,
+      "rows": 28,
+      "orders": 3,
+      "a_orders": 0,
+      "b_orders": 0,
+      "c_orders": 3,
+      "unknown_orders": 0,
+      "c_order_share": 1.0,
+      "top_category": "外采产品",
+      "top_category_qty": 610.0,
+      "spray_qty": 2.0,
+      "spray_share": 0.0016,
+      "level_counts": {
+        "C": 3
+      },
+      "top_categories": [
+        {
+          "category": "外采产品",
+          "qty": 610.0,
+          "orders": 3
+        },
+        {
+          "category": "组合品类",
+          "qty": 503.0,
+          "orders": 2
+        },
+        {
+          "category": "眉笔/眉胶",
+          "qty": 100.0,
+          "orders": 1
+        },
+        {
+          "category": "喷雾",
+          "qty": 2.0,
+          "orders": 1
+        },
+        {
+          "category": "腮红粉",
+          "qty": 2.0,
+          "orders": 1
+        },
+        {
+          "category": "修容粉",
+          "qty": 2.0,
+          "orders": 1
+        },
+        {
+          "category": "Lip marker",
+          "qty": 1.0,
+          "orders": 1
+        }
+      ]
+    },
+    {
+      "country": "挪威",
+      "english": "Norway",
+      "lat": 60.5,
+      "lon": 8.5,
+      "qty": 1040.0,
+      "sales": 2816.0,
+      "rows": 34,
+      "orders": 4,
+      "a_orders": 0,
+      "b_orders": 0,
+      "c_orders": 4,
+      "unknown_orders": 0,
+      "c_order_share": 1.0,
+      "top_category": "外采产品",
+      "top_category_qty": 320.0,
+      "spray_qty": 100.0,
+      "spray_share": 0.0962,
+      "level_counts": {
+        "C": 4
+      },
+      "top_categories": [
+        {
+          "category": "外采产品",
+          "qty": 320.0,
+          "orders": 3
+        },
+        {
+          "category": "组合品类",
+          "qty": 200.0,
+          "orders": 1
+        },
+        {
+          "category": "白色木制唇线笔*120",
+          "qty": 120.0,
+          "orders": 1
+        },
+        {
+          "category": "喷雾",
+          "qty": 100.0,
+          "orders": 1
+        },
+        {
+          "category": "液体腮红",
+          "qty": 100.0,
+          "orders": 1
+        },
+        {
+          "category": "散粉",
+          "qty": 100.0,
+          "orders": 1
+        },
+        {
+          "category": "外采白色木制唇线笔*100",
+          "qty": 100.0,
+          "orders": 1
+        },
+        {
+          "category": "唇釉",
+          "qty": 0.0,
+          "orders": 1
+        }
+      ]
+    },
+    {
+      "country": "牙买加",
+      "english": "Jamaica",
+      "lat": 18.1,
+      "lon": -77.3,
+      "qty": 806.0,
+      "sales": 2538.0,
+      "rows": 26,
+      "orders": 3,
+      "a_orders": 0,
+      "b_orders": 0,
+      "c_orders": 3,
+      "unknown_orders": 0,
+      "c_order_share": 1.0,
+      "top_category": "组合品类",
+      "top_category_qty": 403.0,
+      "spray_qty": 200.0,
+      "spray_share": 0.2481,
+      "level_counts": {
+        "C": 3
+      },
+      "top_categories": [
+        {
+          "category": "组合品类",
+          "qty": 403.0,
+          "orders": 3
+        },
+        {
+          "category": "遮瑕",
+          "qty": 200.0,
+          "orders": 1
+        },
+        {
+          "category": "喷雾",
+          "qty": 200.0,
+          "orders": 2
+        },
+        {
+          "category": "妆前乳",
+          "qty": 1.0,
+          "orders": 1
+        },
+        {
+          "category": "卸妆水",
+          "qty": 1.0,
+          "orders": 1
+        },
+        {
+          "category": "眉笔",
+          "qty": 1.0,
+          "orders": 1
+        },
+        {
+          "category": "粉底液",
+          "qty": 0.0,
+          "orders": 1
+        },
+        {
+          "category": "唇釉",
+          "qty": 0.0,
+          "orders": 1
+        }
+      ]
+    },
+    {
+      "country": "冈比亚",
+      "english": "Gambia",
+      "lat": 13.4,
+      "lon": -15.3,
+      "qty": 630.0,
+      "sales": 1939.4,
+      "rows": 31,
+      "orders": 1,
+      "a_orders": 0,
+      "b_orders": 0,
+      "c_orders": 1,
+      "unknown_orders": 0,
+      "c_order_share": 1.0,
+      "top_category": "组合品类",
+      "top_category_qty": 315.0,
+      "spray_qty": 0,
+      "spray_share": 0.0,
+      "level_counts": {
+        "C": 1
+      },
+      "top_categories": [
+        {
+          "category": "组合品类",
+          "qty": 315.0,
+          "orders": 1
+        },
+        {
+          "category": "粉底液",
+          "qty": 115.0,
+          "orders": 1
+        },
+        {
+          "category": "散粉",
+          "qty": 100.0,
+          "orders": 1
+        },
+        {
+          "category": "遮瑕",
+          "qty": 100.0,
+          "orders": 1
+        }
+      ]
+    },
+    {
+      "country": "毛里求斯",
+      "english": "Mauritius",
+      "lat": -20.2,
+      "lon": 57.6,
+      "qty": 400.0,
+      "sales": 1252.0,
+      "rows": 12,
+      "orders": 2,
+      "a_orders": 0,
+      "b_orders": 0,
+      "c_orders": 2,
+      "unknown_orders": 0,
+      "c_order_share": 1.0,
+      "top_category": "散粉",
+      "top_category_qty": 200.0,
+      "spray_qty": 0.0,
+      "spray_share": 0.0,
+      "level_counts": {
+        "C": 2
+      },
+      "top_categories": [
+        {
+          "category": "散粉",
+          "qty": 200.0,
+          "orders": 1
+        },
+        {
+          "category": "遮瑕",
+          "qty": 100.0,
+          "orders": 1
+        },
+        {
+          "category": "组合品类",
+          "qty": 100.0,
+          "orders": 1
+        },
+        {
+          "category": "喷雾",
+          "qty": 0.0,
+          "orders": 1
+        },
+        {
+          "category": "唇釉",
+          "qty": 0.0,
+          "orders": 1
+        }
+      ]
+    },
+    {
+      "country": "丹麦",
+      "english": "Denmark",
+      "lat": 56.3,
+      "lon": 9.5,
+      "qty": 337.0,
+      "sales": 10.0,
+      "rows": 26,
+      "orders": 2,
+      "a_orders": 0,
+      "b_orders": 0,
+      "c_orders": 2,
+      "unknown_orders": 0,
+      "c_order_share": 1.0,
+      "top_category": "组合品类",
+      "top_category_qty": 168.0,
+      "spray_qty": 3.0,
+      "spray_share": 0.0089,
+      "level_counts": {
+        "C": 2
+      },
+      "top_categories": [
+        {
+          "category": "组合品类",
+          "qty": 168.0,
+          "orders": 1
+        },
+        {
+          "category": "外采产品",
+          "qty": 161.0,
+          "orders": 1
+        },
+        {
+          "category": "粉底液",
+          "qty": 5.0,
+          "orders": 1
+        },
+        {
+          "category": "喷雾",
+          "qty": 3.0,
+          "orders": 2
+        }
+      ]
+    },
+    {
+      "country": "亚美尼亚",
+      "english": "Armenia",
+      "lat": 40.1,
+      "lon": 45.0,
+      "qty": 320.0,
+      "sales": 1078.0,
+      "rows": 7,
+      "orders": 2,
+      "a_orders": 0,
+      "b_orders": 0,
+      "c_orders": 2,
+      "unknown_orders": 0,
+      "c_order_share": 1.0,
+      "top_category": "外采产品",
+      "top_category_qty": 160.0,
+      "spray_qty": 0,
+      "spray_share": 0.0,
+      "level_counts": {
+        "C": 2
+      },
+      "top_categories": [
+        {
+          "category": "外采产品",
+          "qty": 160.0,
+          "orders": 2
+        },
+        {
+          "category": "哑光唇部套装",
+          "qty": 150.0,
+          "orders": 1
+        },
+        {
+          "category": "唇线笔",
+          "qty": 10.0,
+          "orders": 1
+        }
+      ]
+    },
+    {
+      "country": "洪都拉斯",
+      "english": "Honduras",
+      "lat": 15.2,
+      "lon": -86.2,
+      "qty": 300.0,
+      "sales": 290.0,
+      "rows": 11,
+      "orders": 1,
+      "a_orders": 0,
+      "b_orders": 0,
+      "c_orders": 1,
+      "unknown_orders": 0,
+      "c_order_share": 1.0,
+      "top_category": "空包材",
+      "top_category_qty": 125.0,
+      "spray_qty": 0,
+      "spray_share": 0.0,
+      "level_counts": {
+        "C": 1
+      },
+      "top_categories": [
+        {
+          "category": "空包材",
+          "qty": 125.0,
+          "orders": 1
+        },
+        {
+          "category": "唇油",
+          "qty": 125.0,
+          "orders": 1
+        },
+        {
+          "category": "外采产品",
+          "qty": 50.0,
+          "orders": 1
+        }
+      ]
+    },
+    {
+      "country": "哈萨克斯坦",
+      "english": "Kazakhstan",
+      "lat": 48.0,
+      "lon": 66.9,
+      "qty": 270.0,
+      "sales": 4889.0,
+      "rows": 46,
+      "orders": 1,
+      "a_orders": 0,
+      "b_orders": 0,
+      "c_orders": 1,
+      "unknown_orders": 0,
+      "c_order_share": 1.0,
+      "top_category": "组合品类",
+      "top_category_qty": 135.0,
+      "spray_qty": 12.0,
+      "spray_share": 0.0444,
+      "level_counts": {
+        "C": 1
+      },
+      "top_categories": [
+        {
+          "category": "组合品类",
+          "qty": 135.0,
+          "orders": 1
+        },
+        {
+          "category": "外采产品",
+          "qty": 33.0,
+          "orders": 1
+        },
+        {
+          "category": "唇釉",
+          "qty": 27.0,
+          "orders": 1
+        },
+        {
+          "category": "粉底液",
+          "qty": 15.0,
+          "orders": 1
+        },
+        {
+          "category": "遮瑕",
+          "qty": 15.0,
+          "orders": 1
+        },
+        {
+          "category": "腮红粉",
+          "qty": 15.0,
+          "orders": 1
+        },
+        {
+          "category": "喷雾",
+          "qty": 12.0,
+          "orders": 1
+        },
+        {
+          "category": "高光粉",
+          "qty": 9.0,
+          "orders": 1
+        }
+      ]
+    },
+    {
+      "country": "安哥拉",
+      "english": "Angola",
+      "lat": -11.2,
+      "lon": 17.9,
+      "qty": 200.0,
+      "sales": 1258.0,
+      "rows": 4,
+      "orders": 1,
+      "a_orders": 0,
+      "b_orders": 0,
+      "c_orders": 1,
+      "unknown_orders": 0,
+      "c_order_share": 1.0,
+      "top_category": "喷雾",
+      "top_category_qty": 100.0,
+      "spray_qty": 100.0,
+      "spray_share": 0.5,
+      "level_counts": {
+        "C": 1
+      },
+      "top_categories": [
+        {
+          "category": "喷雾",
+          "qty": 100.0,
+          "orders": 1
+        },
+        {
+          "category": "组合品类",
+          "qty": 100.0,
+          "orders": 1
+        },
+        {
+          "category": "粉底液",
+          "qty": 0.0,
+          "orders": 1
+        },
+        {
+          "category": "遮瑕",
+          "qty": 0.0,
+          "orders": 1
+        }
+      ]
+    },
+    {
+      "country": "爱尔兰",
+      "english": "Ireland",
+      "lat": 53.4,
+      "lon": -8.2,
+      "qty": 82.0,
+      "sales": 306.0,
+      "rows": 45,
+      "orders": 4,
+      "a_orders": 0,
+      "b_orders": 0,
+      "c_orders": 4,
+      "unknown_orders": 0,
+      "c_order_share": 1.0,
+      "top_category": "组合品类",
+      "top_category_qty": 31.0,
+      "spray_qty": 4.0,
+      "spray_share": 0.0488,
+      "level_counts": {
+        "C": 4
+      },
+      "top_categories": [
+        {
+          "category": "组合品类",
+          "qty": 31.0,
+          "orders": 1
+        },
+        {
+          "category": "外采产品",
+          "qty": 20.0,
+          "orders": 2
+        },
+        {
+          "category": "遮瑕",
+          "qty": 15.0,
+          "orders": 1
+        },
+        {
+          "category": "腮红粉",
+          "qty": 12.0,
+          "orders": 2
+        },
+        {
+          "category": "喷雾",
+          "qty": 4.0,
+          "orders": 1
+        }
+      ]
+    },
+    {
+      "country": "意大利",
+      "english": "Italy",
+      "lat": 41.9,
+      "lon": 12.6,
+      "qty": 82.0,
+      "sales": 174.0,
+      "rows": 41,
+      "orders": 1,
+      "a_orders": 0,
+      "b_orders": 0,
+      "c_orders": 1,
+      "unknown_orders": 0,
+      "c_order_share": 1.0,
+      "top_category": "组合品类",
+      "top_category_qty": 40.0,
+      "spray_qty": 1.0,
+      "spray_share": 0.0122,
+      "level_counts": {
+        "C": 1
+      },
+      "top_categories": [
+        {
+          "category": "组合品类",
+          "qty": 40.0,
+          "orders": 1
+        },
+        {
+          "category": "外采产品",
+          "qty": 27.0,
+          "orders": 1
+        },
+        {
+          "category": "腮红粉",
+          "qty": 4.0,
+          "orders": 1
+        },
+        {
+          "category": "粉底液",
+          "qty": 3.0,
+          "orders": 1
+        },
+        {
+          "category": "唇釉",
+          "qty": 3.0,
+          "orders": 1
+        },
+        {
+          "category": "喷雾",
+          "qty": 1.0,
+          "orders": 1
+        },
+        {
+          "category": "遮瑕",
+          "qty": 1.0,
+          "orders": 1
+        },
+        {
+          "category": "散粉",
+          "qty": 1.0,
+          "orders": 1
+        }
+      ]
+    },
+    {
+      "country": "马拉维",
+      "english": "Malawi",
+      "lat": -13.3,
+      "lon": 34.3,
+      "qty": 68.0,
+      "sales": 272.0,
+      "rows": 35,
+      "orders": 1,
+      "a_orders": 0,
+      "b_orders": 0,
+      "c_orders": 1,
+      "unknown_orders": 0,
+      "c_order_share": 1.0,
+      "top_category": "组合品类",
+      "top_category_qty": 34.0,
+      "spray_qty": 3.0,
+      "spray_share": 0.0441,
+      "level_counts": {
+        "C": 1
+      },
+      "top_categories": [
+        {
+          "category": "组合品类",
+          "qty": 34.0,
+          "orders": 1
+        },
+        {
+          "category": "粉底液",
+          "qty": 14.0,
+          "orders": 1
+        },
+        {
+          "category": "遮瑕",
+          "qty": 5.0,
+          "orders": 1
+        },
+        {
+          "category": "唇釉",
+          "qty": 5.0,
+          "orders": 1
+        },
+        {
+          "category": "喷雾",
+          "qty": 3.0,
+          "orders": 1
+        },
+        {
+          "category": "妆前乳",
+          "qty": 2.0,
+          "orders": 1
+        },
+        {
+          "category": "腮红粉",
+          "qty": 2.0,
+          "orders": 1
+        },
+        {
+          "category": "液体腮红",
+          "qty": 2.0,
+          "orders": 1
+        }
+      ]
+    },
+    {
+      "country": "匈牙利",
+      "english": "Hungary",
+      "lat": 47.2,
+      "lon": 19.5,
+      "qty": 60.0,
+      "sales": 0.0,
+      "rows": 16,
+      "orders": 1,
+      "a_orders": 1,
+      "b_orders": 0,
+      "c_orders": 0,
+      "unknown_orders": 0,
+      "c_order_share": 0.0,
+      "top_category": "组合品类",
+      "top_category_qty": 42.0,
+      "spray_qty": 0,
+      "spray_share": 0.0,
+      "level_counts": {
+        "A": 1
+      },
+      "top_categories": [
+        {
+          "category": "组合品类",
+          "qty": 42.0,
+          "orders": 1
+        },
+        {
+          "category": "粉底液",
+          "qty": 6.0,
+          "orders": 1
+        },
+        {
+          "category": "遮瑕",
+          "qty": 4.0,
+          "orders": 1
+        },
+        {
+          "category": "腮红粉",
+          "qty": 2.0,
+          "orders": 1
+        },
+        {
+          "category": "修容粉",
+          "qty": 2.0,
+          "orders": 1
+        },
+        {
+          "category": "唇釉",
+          "qty": 2.0,
+          "orders": 1
+        },
+        {
+          "category": "KIKO lipgloss",
+          "qty": 2.0,
+          "orders": 1
+        }
+      ]
+    },
+    {
+      "country": "白俄罗斯",
+      "english": "Belarus",
+      "lat": 53.7,
+      "lon": 27.9,
+      "qty": 60.0,
+      "sales": 0.0,
+      "rows": 7,
+      "orders": 1,
+      "a_orders": 1,
+      "b_orders": 0,
+      "c_orders": 0,
+      "unknown_orders": 0,
+      "c_order_share": 0.0,
+      "top_category": "散粉",
+      "top_category_qty": 40.0,
+      "spray_qty": 0,
+      "spray_share": 0.0,
+      "level_counts": {
+        "A": 1
+      },
+      "top_categories": [
+        {
+          "category": "散粉",
+          "qty": 40.0,
+          "orders": 1
+        },
+        {
+          "category": "唇釉",
+          "qty": 20.0,
+          "orders": 1
+        }
+      ]
+    },
+    {
+      "country": "阿尔及利亚",
+      "english": "Algeria",
+      "lat": 28.0,
+      "lon": 1.7,
+      "qty": 58.0,
+      "sales": 0.0,
+      "rows": 10,
+      "orders": 3,
+      "a_orders": 2,
+      "b_orders": 0,
+      "c_orders": 1,
+      "unknown_orders": 0,
+      "c_order_share": 0.3333,
+      "top_category": "喷雾",
+      "top_category_qty": 48.0,
+      "spray_qty": 48.0,
+      "spray_share": 0.8276,
+      "level_counts": {
+        "A": 2,
+        "C": 1
+      },
+      "top_categories": [
+        {
+          "category": "喷雾",
+          "qty": 48.0,
+          "orders": 2
+        },
+        {
+          "category": "空包材",
+          "qty": 5.0,
+          "orders": 1
+        },
+        {
+          "category": "组合品类",
+          "qty": 5.0,
+          "orders": 1
+        }
+      ]
+    },
+    {
+      "country": "摩洛哥",
+      "english": "Morocco",
+      "lat": 31.8,
+      "lon": -7.1,
+      "qty": 42.0,
+      "sales": 148.0,
+      "rows": 23,
+      "orders": 2,
+      "a_orders": 0,
+      "b_orders": 0,
+      "c_orders": 2,
+      "unknown_orders": 0,
+      "c_order_share": 1.0,
+      "top_category": "唇釉",
+      "top_category_qty": 14.0,
+      "spray_qty": 0,
+      "spray_share": 0.0,
+      "level_counts": {
+        "C": 2
+      },
+      "top_categories": [
+        {
+          "category": "唇釉",
+          "qty": 14.0,
+          "orders": 1
+        },
+        {
+          "category": "组合品类",
+          "qty": 14.0,
+          "orders": 1
+        },
+        {
+          "category": "遮瑕",
+          "qty": 12.0,
+          "orders": 1
+        },
+        {
+          "category": "粉底液",
+          "qty": 2.0,
+          "orders": 1
+        }
+      ]
+    },
+    {
+      "country": "土耳其",
+      "english": "Turkey",
+      "lat": 39.0,
+      "lon": 35.2,
+      "qty": 40.0,
+      "sales": 170.0,
+      "rows": 21,
+      "orders": 1,
+      "a_orders": 0,
+      "b_orders": 0,
+      "c_orders": 1,
+      "unknown_orders": 0,
+      "c_order_share": 1.0,
+      "top_category": "外采产品",
+      "top_category_qty": 20.0,
+      "spray_qty": 0,
+      "spray_share": 0.0,
+      "level_counts": {
+        "C": 1
+      },
+      "top_categories": [
+        {
+          "category": "外采产品",
+          "qty": 20.0,
+          "orders": 1
+        },
+        {
+          "category": "组合品类",
+          "qty": 20.0,
+          "orders": 1
+        }
+      ]
+    },
+    {
+      "country": "科特迪瓦",
+      "english": "Cote d'Ivoire",
+      "lat": 7.5,
+      "lon": -5.5,
+      "qty": 38.0,
+      "sales": 114.45,
+      "rows": 21,
+      "orders": 2,
+      "a_orders": 0,
+      "b_orders": 0,
+      "c_orders": 2,
+      "unknown_orders": 0,
+      "c_order_share": 1.0,
+      "top_category": "组合品类",
+      "top_category_qty": 16.0,
+      "spray_qty": 9.0,
+      "spray_share": 0.2368,
+      "level_counts": {
+        "C": 2
+      },
+      "top_categories": [
+        {
+          "category": "组合品类",
+          "qty": 16.0,
+          "orders": 1
+        },
+        {
+          "category": "唇釉",
+          "qty": 11.0,
+          "orders": 1
+        },
+        {
+          "category": "喷雾",
+          "qty": 9.0,
+          "orders": 2
+        },
+        {
+          "category": "唇油",
+          "qty": 1.0,
+          "orders": 1
+        },
+        {
+          "category": "妆前乳",
+          "qty": 1.0,
+          "orders": 1
+        }
+      ]
+    },
+    {
+      "country": "孟加拉国",
+      "english": "Bangladesh",
+      "lat": 23.7,
+      "lon": 90.4,
+      "qty": 36.0,
+      "sales": 180.0,
+      "rows": 19,
+      "orders": 1,
+      "a_orders": 0,
+      "b_orders": 0,
+      "c_orders": 1,
+      "unknown_orders": 0,
+      "c_order_share": 1.0,
+      "top_category": "唇釉",
+      "top_category_qty": 27.0,
+      "spray_qty": 0,
+      "spray_share": 0.0,
+      "level_counts": {
+        "C": 1
+      },
+      "top_categories": [
+        {
+          "category": "唇釉",
+          "qty": 27.0,
+          "orders": 1
+        },
+        {
+          "category": "外采产品",
+          "qty": 6.0,
+          "orders": 1
+        },
+        {
+          "category": "唇油",
+          "qty": 3.0,
+          "orders": 1
+        }
+      ]
+    },
+    {
+      "country": "芬兰",
+      "english": "Finland",
+      "lat": 61.9,
+      "lon": 25.7,
+      "qty": 34.0,
+      "sales": 170.0,
+      "rows": 20,
+      "orders": 2,
+      "a_orders": 0,
+      "b_orders": 0,
+      "c_orders": 2,
+      "unknown_orders": 0,
+      "c_order_share": 1.0,
+      "top_category": "组合品类",
+      "top_category_qty": 13.0,
+      "spray_qty": 0,
+      "spray_share": 0.0,
+      "level_counts": {
+        "C": 2
+      },
+      "top_categories": [
+        {
+          "category": "组合品类",
+          "qty": 13.0,
+          "orders": 1
+        },
+        {
+          "category": "修容粉",
+          "qty": 8.0,
+          "orders": 1
+        },
+        {
+          "category": "唇油",
+          "qty": 5.0,
+          "orders": 1
+        },
+        {
+          "category": "外采产品",
+          "qty": 4.0,
+          "orders": 1
+        },
+        {
+          "category": "唇釉",
+          "qty": 4.0,
+          "orders": 1
+        },
+        {
+          "category": "粉底液",
+          "qty": 0.0,
+          "orders": 1
+        }
+      ]
+    },
+    {
+      "country": "伊朗",
+      "english": "Iran",
+      "lat": 32.4,
+      "lon": 53.7,
+      "qty": 25.0,
+      "sales": 4100.0,
+      "rows": 3,
+      "orders": 1,
+      "a_orders": 1,
+      "b_orders": 0,
+      "c_orders": 0,
+      "unknown_orders": 0,
+      "c_order_share": 0.0,
+      "top_category": "眼线/眼影",
+      "top_category_qty": 15.0,
+      "spray_qty": 0,
+      "spray_share": 0.0,
+      "level_counts": {
+        "A": 1
+      },
+      "top_categories": [
+        {
+          "category": "眼线/眼影",
+          "qty": 15.0,
+          "orders": 1
+        },
+        {
+          "category": "空包材",
+          "qty": 10.0,
+          "orders": 1
+        }
+      ]
+    },
+    {
+      "country": "韩国",
+      "english": "South Korea",
+      "lat": 36.5,
+      "lon": 127.8,
+      "qty": 25.0,
+      "sales": 50.0,
+      "rows": 5,
+      "orders": 1,
+      "a_orders": 0,
+      "b_orders": 0,
+      "c_orders": 1,
+      "unknown_orders": 0,
+      "c_order_share": 1.0,
+      "top_category": "喷雾",
+      "top_category_qty": 25.0,
+      "spray_qty": 25.0,
+      "spray_share": 1.0,
+      "level_counts": {
+        "C": 1
+      },
+      "top_categories": [
+        {
+          "category": "喷雾",
+          "qty": 25.0,
+          "orders": 1
+        }
+      ]
+    },
+    {
+      "country": "智利",
+      "english": "Chile",
+      "lat": -35.7,
+      "lon": -71.5,
+      "qty": 24.0,
+      "sales": 96.0,
+      "rows": 13,
+      "orders": 1,
+      "a_orders": 0,
+      "b_orders": 0,
+      "c_orders": 1,
+      "unknown_orders": 0,
+      "c_order_share": 1.0,
+      "top_category": "外采产品",
+      "top_category_qty": 12.0,
+      "spray_qty": 0,
+      "spray_share": 0.0,
+      "level_counts": {
+        "C": 1
+      },
+      "top_categories": [
+        {
+          "category": "外采产品",
+          "qty": 12.0,
+          "orders": 1
+        },
+        {
+          "category": "组合品类",
+          "qty": 12.0,
+          "orders": 1
+        }
+      ]
+    },
+    {
+      "country": "新西兰",
+      "english": "New Zealand",
+      "lat": -40.9,
+      "lon": 174.9,
+      "qty": 22.0,
+      "sales": 110.0,
+      "rows": 12,
+      "orders": 1,
+      "a_orders": 0,
+      "b_orders": 0,
+      "c_orders": 1,
+      "unknown_orders": 0,
+      "c_order_share": 1.0,
+      "top_category": "组合品类",
+      "top_category_qty": 11.0,
+      "spray_qty": 0,
+      "spray_share": 0.0,
+      "level_counts": {
+        "C": 1
+      },
+      "top_categories": [
+        {
+          "category": "组合品类",
+          "qty": 11.0,
+          "orders": 1
+        },
+        {
+          "category": "外采产品",
+          "qty": 6.0,
+          "orders": 1
+        },
+        {
+          "category": "唇釉",
+          "qty": 2.0,
+          "orders": 1
+        },
+        {
+          "category": "眼影盘",
+          "qty": 1.0,
+          "orders": 1
+        },
+        {
+          "category": "睫毛膏",
+          "qty": 1.0,
+          "orders": 1
+        },
+        {
+          "category": "唇油",
+          "qty": 1.0,
+          "orders": 1
+        }
+      ]
+    },
+    {
+      "country": "哥伦比亚",
+      "english": "Colombia",
+      "lat": 4.6,
+      "lon": -74.1,
+      "qty": 22.0,
+      "sales": 88.0,
+      "rows": 12,
+      "orders": 1,
+      "a_orders": 0,
+      "b_orders": 0,
+      "c_orders": 1,
+      "unknown_orders": 0,
+      "c_order_share": 1.0,
+      "top_category": "组合品类",
+      "top_category_qty": 11.0,
+      "spray_qty": 1.0,
+      "spray_share": 0.0455,
+      "level_counts": {
+        "C": 1
+      },
+      "top_categories": [
+        {
+          "category": "组合品类",
+          "qty": 11.0,
+          "orders": 1
+        },
+        {
+          "category": "遮瑕",
+          "qty": 3.0,
+          "orders": 1
+        },
+        {
+          "category": "腮红粉",
+          "qty": 2.0,
+          "orders": 1
+        },
+        {
+          "category": "唇油",
+          "qty": 1.0,
+          "orders": 1
+        },
+        {
+          "category": "外采产品",
+          "qty": 1.0,
+          "orders": 1
+        },
+        {
+          "category": "唇釉",
+          "qty": 1.0,
+          "orders": 1
+        },
+        {
+          "category": "液体高光",
+          "qty": 1.0,
+          "orders": 1
+        },
+        {
+          "category": "粉底液",
+          "qty": 1.0,
+          "orders": 1
+        }
+      ]
+    },
+    {
+      "country": "乌干达",
+      "english": "Uganda",
+      "lat": 1.4,
+      "lon": 32.3,
+      "qty": 18.0,
+      "sales": 0.0,
+      "rows": 10,
+      "orders": 1,
+      "a_orders": 0,
+      "b_orders": 0,
+      "c_orders": 1,
+      "unknown_orders": 0,
+      "c_order_share": 1.0,
+      "top_category": "外采产品",
+      "top_category_qty": 9.0,
+      "spray_qty": 0,
+      "spray_share": 0.0,
+      "level_counts": {
+        "C": 1
+      },
+      "top_categories": [
+        {
+          "category": "外采产品",
+          "qty": 9.0,
+          "orders": 1
+        },
+        {
+          "category": "组合品类",
+          "qty": 9.0,
+          "orders": 1
+        }
+      ]
+    },
+    {
+      "country": "以色列",
+      "english": "Israel",
+      "lat": 31.0,
+      "lon": 35.0,
+      "qty": 16.0,
+      "sales": 190.0,
+      "rows": 10,
+      "orders": 2,
+      "a_orders": 0,
+      "b_orders": 0,
+      "c_orders": 2,
+      "unknown_orders": 0,
+      "c_order_share": 1.0,
+      "top_category": "腮红粉",
+      "top_category_qty": 10.0,
+      "spray_qty": 0,
+      "spray_share": 0.0,
+      "level_counts": {
+        "C": 2
+      },
+      "top_categories": [
+        {
+          "category": "腮红粉",
+          "qty": 10.0,
+          "orders": 1
+        },
+        {
+          "category": "外采产品",
+          "qty": 3.0,
+          "orders": 1
+        },
+        {
+          "category": "眼线/眼影",
+          "qty": 3.0,
+          "orders": 1
+        }
+      ]
+    },
+    {
+      "country": "塞尔维亚",
+      "english": "Serbia",
+      "lat": 44.0,
+      "lon": 20.8,
+      "qty": 16.0,
+      "sales": 72.76,
+      "rows": 7,
+      "orders": 2,
+      "a_orders": 0,
+      "b_orders": 0,
+      "c_orders": 2,
+      "unknown_orders": 0,
+      "c_order_share": 1.0,
+      "top_category": "散粉",
+      "top_category_qty": 16.0,
+      "spray_qty": 0,
+      "spray_share": 0.0,
+      "level_counts": {
+        "C": 2
+      },
+      "top_categories": [
+        {
+          "category": "散粉",
+          "qty": 16.0,
+          "orders": 2
+        }
+      ]
+    },
+    {
+      "country": "博茨瓦纳",
+      "english": "Botswana",
+      "lat": -22.3,
+      "lon": 24.7,
+      "qty": 16.0,
+      "sales": 104.0,
+      "rows": 10,
+      "orders": 2,
+      "a_orders": 0,
+      "b_orders": 0,
+      "c_orders": 2,
+      "unknown_orders": 0,
+      "c_order_share": 1.0,
+      "top_category": "组合品类",
+      "top_category_qty": 8.0,
+      "spray_qty": 2.0,
+      "spray_share": 0.125,
+      "level_counts": {
+        "C": 2
+      },
+      "top_categories": [
+        {
+          "category": "组合品类",
+          "qty": 8.0,
+          "orders": 2
+        },
+        {
+          "category": "Lip marker",
+          "qty": 4.0,
+          "orders": 1
+        },
+        {
+          "category": "喷雾",
+          "qty": 2.0,
+          "orders": 2
+        },
+        {
+          "category": "遮瑕",
+          "qty": 1.0,
+          "orders": 1
+        },
+        {
+          "category": "身体高光油",
+          "qty": 1.0,
+          "orders": 1
+        }
+      ]
+    },
+    {
+      "country": "中国",
+      "english": "China",
+      "lat": 35.9,
+      "lon": 104.2,
+      "qty": 10.0,
+      "sales": 0.0,
+      "rows": 6,
+      "orders": 1,
+      "a_orders": 0,
+      "b_orders": 0,
+      "c_orders": 1,
+      "unknown_orders": 0,
+      "c_order_share": 1.0,
+      "top_category": "粉底液",
+      "top_category_qty": 10.0,
+      "spray_qty": 0,
+      "spray_share": 0.0,
+      "level_counts": {
+        "C": 1
+      },
+      "top_categories": [
+        {
+          "category": "粉底液",
+          "qty": 10.0,
+          "orders": 1
+        }
+      ]
+    },
+    {
+      "country": "卢旺达",
+      "english": "Rwanda",
+      "lat": -1.9,
+      "lon": 29.9,
+      "qty": 8.0,
+      "sales": 332.0,
+      "rows": 5,
+      "orders": 1,
+      "a_orders": 0,
+      "b_orders": 0,
+      "c_orders": 1,
+      "unknown_orders": 0,
+      "c_order_share": 1.0,
+      "top_category": "外采产品",
+      "top_category_qty": 4.0,
+      "spray_qty": 0,
+      "spray_share": 0.0,
+      "level_counts": {
+        "C": 1
+      },
+      "top_categories": [
+        {
+          "category": "外采产品",
+          "qty": 4.0,
+          "orders": 1
+        },
+        {
+          "category": "唇釉",
+          "qty": 4.0,
+          "orders": 1
+        }
+      ]
+    },
+    {
+      "country": "巴哈马",
+      "english": "Bahamas",
+      "lat": 25.0,
+      "lon": -77.4,
+      "qty": 8.0,
+      "sales": 50.0,
+      "rows": 5,
+      "orders": 1,
+      "a_orders": 0,
+      "b_orders": 0,
+      "c_orders": 1,
+      "unknown_orders": 0,
+      "c_order_share": 1.0,
+      "top_category": "外采产品",
+      "top_category_qty": 4.0,
+      "spray_qty": 0,
+      "spray_share": 0.0,
+      "level_counts": {
+        "C": 1
+      },
+      "top_categories": [
+        {
+          "category": "外采产品",
+          "qty": 4.0,
+          "orders": 1
+        },
+        {
+          "category": "唇彩",
+          "qty": 4.0,
+          "orders": 1
+        }
+      ]
+    },
+    {
+      "country": "拉脱维亚",
+      "english": "Latvia",
+      "lat": 56.9,
+      "lon": 24.6,
+      "qty": 6.0,
+      "sales": 30.0,
+      "rows": 4,
+      "orders": 1,
+      "a_orders": 0,
+      "b_orders": 0,
+      "c_orders": 1,
+      "unknown_orders": 0,
+      "c_order_share": 1.0,
+      "top_category": "外采产品",
+      "top_category_qty": 3.0,
+      "spray_qty": 0,
+      "spray_share": 0.0,
+      "level_counts": {
+        "C": 1
+      },
+      "top_categories": [
+        {
+          "category": "外采产品",
+          "qty": 3.0,
+          "orders": 1
+        },
+        {
+          "category": "腮红粉",
+          "qty": 3.0,
+          "orders": 1
+        }
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "category": "气垫",
+      "qty": 2240851.0,
+      "sales": 225536.0,
+      "orders": 28,
+      "countries": 6
+    },
+    {
+      "category": "组合品类",
+      "qty": 603252.0,
+      "sales": 837503.85,
+      "orders": 510,
+      "countries": 69
+    },
+    {
+      "category": "喷雾",
+      "qty": 365517.0,
+      "sales": 4.459456414239205e+17,
+      "orders": 364,
+      "countries": 59
+    },
+    {
+      "category": "空包材",
+      "qty": 221307.0,
+      "sales": 144500.69,
+      "orders": 47,
+      "countries": 20
+    },
+    {
+      "category": "唇釉",
+      "qty": 162552.0,
+      "sales": 236193.59,
+      "orders": 255,
+      "countries": 54
+    },
+    {
+      "category": "腮红粉",
+      "qty": 117181.0,
+      "sales": 8.068674281606622e+19,
+      "orders": 205,
+      "countries": 49
+    },
+    {
+      "category": "未分类",
+      "qty": 110012.0,
+      "sales": 12150.02,
+      "orders": 44,
+      "countries": 23
+    },
+    {
+      "category": "遮瑕",
+      "qty": 87029.0,
+      "sales": 156923.51,
+      "orders": 273,
+      "countries": 55
+    },
+    {
+      "category": "唇膏",
+      "qty": 81109.0,
+      "sales": 70010.7,
+      "orders": 22,
+      "countries": 14
+    },
+    {
+      "category": "粉底液",
+      "qty": 57625.0,
+      "sales": 194221.88,
+      "orders": 214,
+      "countries": 52
+    },
+    {
+      "category": "眉笔/眉胶",
+      "qty": 49801.0,
+      "sales": 42548.45,
+      "orders": 16,
+      "countries": 8
+    },
+    {
+      "category": "散粉",
+      "qty": 47139.0,
+      "sales": 43158.54,
+      "orders": 132,
+      "countries": 43
+    },
+    {
+      "category": "腮红盘",
+      "qty": 44060.0,
+      "sales": 43560.0,
+      "orders": 3,
+      "countries": 2
+    },
+    {
+      "category": "外采产品",
+      "qty": 39619.0,
+      "sales": 1.32161048016639e+20,
+      "orders": 279,
+      "countries": 56
+    },
+    {
+      "category": "唇彩",
+      "qty": 21085.0,
+      "sales": 592.0,
+      "orders": 10,
+      "countries": 8
+    },
+    {
+      "category": "唇部马克笔",
+      "qty": 19607.0,
+      "sales": 4186.2,
+      "orders": 9,
+      "countries": 4
+    },
+    {
+      "category": "卸妆水",
+      "qty": 18483.0,
+      "sales": 50223.0,
+      "orders": 39,
+      "countries": 16
+    },
+    {
+      "category": "眼线/眼影",
+      "qty": 15429.0,
+      "sales": 13209.0,
+      "orders": 24,
+      "countries": 13
+    },
+    {
+      "category": "唇棒",
+      "qty": 14507.0,
+      "sales": 0.0,
+      "orders": 9,
+      "countries": 6
+    },
+    {
+      "category": "唇油",
+      "qty": 12125.0,
+      "sales": 25198.5,
+      "orders": 86,
+      "countries": 32
+    },
+    {
+      "category": "双头唇染笔",
+      "qty": 11000.0,
+      "sales": 4590.0,
+      "orders": 2,
+      "countries": 2
+    },
+    {
+      "category": "高光粉",
+      "qty": 10760.0,
+      "sales": 37377.22,
+      "orders": 77,
+      "countries": 28
+    },
+    {
+      "category": "Lip marker",
+      "qty": 10006.0,
+      "sales": 11146.0,
+      "orders": 6,
+      "countries": 6
+    },
+    {
+      "category": "修容粉",
+      "qty": 8306.0,
+      "sales": 9494.5,
+      "orders": 49,
+      "countries": 25
+    },
+    {
+      "category": "液体腮红",
+      "qty": 5679.0,
+      "sales": 15551.9,
+      "orders": 62,
+      "countries": 22
+    },
+    {
+      "category": "Lip mask",
+      "qty": 5015.0,
+      "sales": 0.0,
+      "orders": 1,
+      "countries": 1
+    },
+    {
+      "category": "妆前乳",
+      "qty": 4187.0,
+      "sales": 5.548847979533411e+18,
+      "orders": 51,
+      "countries": 25
+    },
+    {
+      "category": "三合一盘",
+      "qty": 3162.0,
+      "sales": 10865.75,
+      "orders": 16,
+      "countries": 7
+    },
+    {
+      "category": "眼线液笔",
+      "qty": 3145.0,
+      "sales": 4069.2,
+      "orders": 11,
+      "countries": 8
+    },
+    {
+      "category": "眼影盘",
+      "qty": 3032.0,
+      "sales": 8930.0,
+      "orders": 15,
+      "countries": 10
+    },
+    {
+      "category": "身体高光油",
+      "qty": 2015.0,
+      "sales": 127.9,
+      "orders": 10,
+      "countries": 8
+    },
+    {
+      "category": "粉色瓶水光*1000",
+      "qty": 2000.0,
+      "sales": 4570.0,
+      "orders": 1,
+      "countries": 1
+    },
+    {
+      "category": "礼品盒*1000",
+      "qty": 1000.0,
+      "sales": 5970.0,
+      "orders": 1,
+      "countries": 1
+    },
+    {
+      "category": "黑瓶哑光*800",
+      "qty": 800.0,
+      "sales": 1960.0,
+      "orders": 1,
+      "countries": 1
+    },
+    {
+      "category": "黑瓶哑光*500",
+      "qty": 500.0,
+      "sales": 1300.0,
+      "orders": 1,
+      "countries": 1
+    },
+    {
+      "category": "透明底水晶标*500",
+      "qty": 500.0,
+      "sales": 35.0,
+      "orders": 1,
+      "countries": 1
+    },
+    {
+      "category": "三色盘",
+      "qty": 500.0,
+      "sales": 2305.0,
+      "orders": 1,
+      "countries": 1
+    },
+    {
+      "category": "LIP STICK*308",
+      "qty": 308.0,
+      "sales": 504.28,
+      "orders": 1,
+      "countries": 1
+    },
+    {
+      "category": "睫毛膏",
+      "qty": 210.0,
+      "sales": 296.0,
+      "orders": 12,
+      "countries": 9
+    },
+    {
+      "category": "套盒1*100 套盒2*100",
+      "qty": 200.0,
+      "sales": 0.0,
+      "orders": 1,
+      "countries": 1
+    }
+  ],
+  "countryCategory": [
+    {
+      "country": "印尼",
+      "category": "气垫",
+      "qty": 2116673.0,
+      "orders": 15
+    },
+    {
+      "country": "菲律宾",
+      "category": "喷雾",
+      "qty": 189789.0,
+      "orders": 23
+    },
+    {
+      "country": "希腊",
+      "category": "空包材",
+      "qty": 116300.0,
+      "orders": 9
+    },
+    {
+      "country": "希腊",
+      "category": "组合品类",
+      "qty": 115530.0,
+      "orders": 13
+    },
+    {
+      "country": "菲律宾",
+      "category": "组合品类",
+      "qty": 115386.0,
+      "orders": 16
+    },
+    {
+      "country": "菲律宾",
+      "category": "气垫",
+      "qty": 110019.0,
+      "orders": 4
+    },
+    {
+      "country": "沙特",
+      "category": "未分类",
+      "qty": 75300.0,
+      "orders": 3
+    },
+    {
+      "country": "印度",
+      "category": "喷雾",
+      "qty": 71115.0,
+      "orders": 9
+    },
+    {
+      "country": "巴西",
+      "category": "组合品类",
+      "qty": 60002.0,
+      "orders": 2
+    },
+    {
+      "country": "美国",
+      "category": "组合品类",
+      "qty": 56544.0,
+      "orders": 100
+    },
+    {
+      "country": "伊拉克",
+      "category": "组合品类",
+      "qty": 50651.0,
+      "orders": 11
+    },
+    {
+      "country": "沙特",
+      "category": "唇釉",
+      "qty": 50150.0,
+      "orders": 1
+    },
+    {
+      "country": "泰国",
+      "category": "腮红粉",
+      "qty": 42106.0,
+      "orders": 3
+    },
+    {
+      "country": "泰国",
+      "category": "腮红盘",
+      "qty": 42060.0,
+      "orders": 2
+    },
+    {
+      "country": "乌克兰",
+      "category": "眉笔/眉胶",
+      "qty": 42010.0,
+      "orders": 3
+    },
+    {
+      "country": "澳大利亚",
+      "category": "组合品类",
+      "qty": 37927.0,
+      "orders": 17
+    },
+    {
+      "country": "加拿大",
+      "category": "唇膏",
+      "qty": 37512.0,
+      "orders": 2
+    },
+    {
+      "country": "沙特",
+      "category": "唇膏",
+      "qty": 35120.0,
+      "orders": 1
+    },
+    {
+      "country": "伊拉克",
+      "category": "空包材",
+      "qty": 35060.0,
+      "orders": 4
+    },
+    {
+      "country": "新加坡",
+      "category": "遮瑕",
+      "qty": 32630.0,
+      "orders": 24
+    },
+    {
+      "country": "印尼",
+      "category": "腮红粉",
+      "qty": 30058.0,
+      "orders": 4
+    },
+    {
+      "country": "伊拉克",
+      "category": "唇釉",
+      "qty": 28029.0,
+      "orders": 8
+    },
+    {
+      "country": "美国",
+      "category": "喷雾",
+      "qty": 27953.0,
+      "orders": 86
+    },
+    {
+      "country": "马来西亚",
+      "category": "组合品类",
+      "qty": 25919.0,
+      "orders": 11
+    },
+    {
+      "country": "沙特",
+      "category": "组合品类",
+      "qty": 25143.0,
+      "orders": 5
+    },
+    {
+      "country": "美国",
+      "category": "唇釉",
+      "qty": 24808.0,
+      "orders": 52
+    },
+    {
+      "country": "印尼",
+      "category": "未分类",
+      "qty": 22565.0,
+      "orders": 6
+    },
+    {
+      "country": "阿曼",
+      "category": "空包材",
+      "qty": 22188.0,
+      "orders": 4
+    },
+    {
+      "country": "阿曼",
+      "category": "组合品类",
+      "qty": 22153.0,
+      "orders": 47
+    },
+    {
+      "country": "伊拉克",
+      "category": "唇彩",
+      "qty": 21013.0,
+      "orders": 3
+    },
+    {
+      "country": "新加坡",
+      "category": "喷雾",
+      "qty": 20281.0,
+      "orders": 18
+    },
+    {
+      "country": "澳大利亚",
+      "category": "唇部马克笔",
+      "qty": 19586.0,
+      "orders": 4
+    },
+    {
+      "country": "美国",
+      "category": "粉底液",
+      "qty": 18264.0,
+      "orders": 42
+    },
+    {
+      "country": "阿曼",
+      "category": "唇釉",
+      "qty": 17318.0,
+      "orders": 30
+    },
+    {
+      "country": "墨西哥",
+      "category": "组合品类",
+      "qty": 16423.0,
+      "orders": 11
+    },
+    {
+      "country": "墨西哥",
+      "category": "空包材",
+      "qty": 16120.0,
+      "orders": 3
+    },
+    {
+      "country": "马来西亚",
+      "category": "喷雾",
+      "qty": 15335.0,
+      "orders": 8
+    },
+    {
+      "country": "柬埔寨",
+      "category": "气垫",
+      "qty": 14152.0,
+      "orders": 5
+    },
+    {
+      "country": "墨西哥",
+      "category": "散粉",
+      "qty": 14020.0,
+      "orders": 7
+    },
+    {
+      "country": "美国",
+      "category": "外采产品",
+      "qty": 13831.0,
+      "orders": 67
+    },
+    {
+      "country": "美国",
+      "category": "遮瑕",
+      "qty": 13489.0,
+      "orders": 61
+    },
+    {
+      "country": "美国",
+      "category": "腮红粉",
+      "qty": 12808.0,
+      "orders": 45
+    },
+    {
+      "country": "加拿大",
+      "category": "唇棒",
+      "qty": 12500.0,
+      "orders": 1
+    },
+    {
+      "country": "巴基斯坦",
+      "category": "腮红粉",
+      "qty": 11553.0,
+      "orders": 5
+    },
+    {
+      "country": "澳大利亚",
+      "category": "空包材",
+      "qty": 11002.0,
+      "orders": 2
+    },
+    {
+      "country": "澳大利亚",
+      "category": "双头唇染笔",
+      "qty": 11000.0,
+      "orders": 1
+    },
+    {
+      "country": "马来西亚",
+      "category": "唇釉",
+      "qty": 10704.0,
+      "orders": 10
+    },
+    {
+      "country": "阿联酋",
+      "category": "唇釉",
+      "qty": 10319.0,
+      "orders": 14
+    },
+    {
+      "country": "墨西哥",
+      "category": "喷雾",
+      "qty": 10303.0,
+      "orders": 5
+    },
+    {
+      "country": "巴西",
+      "category": "眼线/眼影",
+      "qty": 10015.0,
+      "orders": 5
+    },
+    {
+      "country": "俄罗斯",
+      "category": "散粉",
+      "qty": 10000.0,
+      "orders": 1
+    },
+    {
+      "country": "澳大利亚",
+      "category": "Lip marker",
+      "qty": 10000.0,
+      "orders": 1
+    },
+    {
+      "country": "吉尔吉斯斯坦",
+      "category": "空包材",
+      "qty": 10000.0,
+      "orders": 1
+    },
+    {
+      "country": "墨西哥",
+      "category": "遮瑕",
+      "qty": 9706.0,
+      "orders": 6
+    },
+    {
+      "country": "立陶宛",
+      "category": "卸妆水",
+      "qty": 9650.0,
+      "orders": 4
+    },
+    {
+      "country": "伊拉克",
+      "category": "遮瑕",
+      "qty": 9044.0,
+      "orders": 6
+    },
+    {
+      "country": "澳大利亚",
+      "category": "唇釉",
+      "qty": 8914.0,
+      "orders": 9
+    },
+    {
+      "country": "印度",
+      "category": "组合品类",
+      "qty": 8571.0,
+      "orders": 9
+    },
+    {
+      "country": "阿曼",
+      "category": "遮瑕",
+      "qty": 8531.0,
+      "orders": 23
+    },
+    {
+      "country": "伊拉克",
+      "category": "散粉",
+      "qty": 7504.0,
+      "orders": 4
+    },
+    {
+      "country": "黎巴嫩",
+      "category": "粉底液",
+      "qty": 7103.0,
+      "orders": 3
+    },
+    {
+      "country": "巴西",
+      "category": "眉笔/眉胶",
+      "qty": 7060.0,
+      "orders": 2
+    },
+    {
+      "country": "新加坡",
+      "category": "修容粉",
+      "qty": 7008.0,
+      "orders": 3
+    },
+    {
+      "country": "美国",
+      "category": "散粉",
+      "qty": 6447.0,
+      "orders": 28
+    },
+    {
+      "country": "赞比亚",
+      "category": "粉底液",
+      "qty": 6012.0,
+      "orders": 3
+    },
+    {
+      "country": "巴基斯坦",
+      "category": "唇膏",
+      "qty": 6006.0,
+      "orders": 2
+    },
+    {
+      "country": "印度",
+      "category": "高光粉",
+      "qty": 6006.0,
+      "orders": 3
+    },
+    {
+      "country": "新加坡",
+      "category": "未分类",
+      "qty": 6004.0,
+      "orders": 2
+    },
+    {
+      "country": "新加坡",
+      "category": "空包材",
+      "qty": 6003.0,
+      "orders": 2
+    },
+    {
+      "country": "立陶宛",
+      "category": "组合品类",
+      "qty": 5950.0,
+      "orders": 2
+    },
+    {
+      "country": "英国",
+      "category": "组合品类",
+      "qty": 5861.0,
+      "orders": 34
+    },
+    {
+      "country": "新加坡",
+      "category": "卸妆水",
+      "qty": 5027.0,
+      "orders": 6
+    },
+    {
+      "country": "马来西亚",
+      "category": "腮红粉",
+      "qty": 5023.0,
+      "orders": 5
+    },
+    {
+      "country": "沙特",
+      "category": "Lip mask",
+      "qty": 5015.0,
+      "orders": 1
+    },
+    {
+      "country": "阿曼",
+      "category": "粉底液",
+      "qty": 4937.0,
+      "orders": 14
+    },
+    {
+      "country": "阿曼",
+      "category": "唇油",
+      "qty": 4884.0,
+      "orders": 12
+    },
+    {
+      "country": "阿联酋",
+      "category": "组合品类",
+      "qty": 4349.0,
+      "orders": 25
+    },
+    {
+      "country": "印度",
+      "category": "腮红粉",
+      "qty": 4219.0,
+      "orders": 8
+    },
+    {
+      "country": "阿联酋",
+      "category": "腮红粉",
+      "qty": 4125.0,
+      "orders": 11
+    },
+    {
+      "country": "美国",
+      "category": "空包材",
+      "qty": 4060.0,
+      "orders": 7
+    },
+    {
+      "country": "马来西亚",
+      "category": "散粉",
+      "qty": 4043.0,
+      "orders": 5
+    },
+    {
+      "country": "伊拉克",
+      "category": "未分类",
+      "qty": 4017.0,
+      "orders": 2
+    },
+    {
+      "country": "南非",
+      "category": "组合品类",
+      "qty": 3951.0,
+      "orders": 9
+    },
+    {
+      "country": "赞比亚",
+      "category": "喷雾",
+      "qty": 3704.0,
+      "orders": 8
+    },
+    {
+      "country": "阿联酋",
+      "category": "喷雾",
+      "qty": 3681.0,
+      "orders": 19
+    },
+    {
+      "country": "阿曼",
+      "category": "外采产品",
+      "qty": 3635.0,
+      "orders": 29
+    },
+    {
+      "country": "瑞典",
+      "category": "组合品类",
+      "qty": 3521.0,
+      "orders": 2
+    },
+    {
+      "country": "新加坡",
+      "category": "液体腮红",
+      "qty": 3429.0,
+      "orders": 7
+    },
+    {
+      "country": "美国",
+      "category": "卸妆水",
+      "qty": 3310.0,
+      "orders": 8
+    },
+    {
+      "country": "加纳",
+      "category": "喷雾",
+      "qty": 3212.0,
+      "orders": 7
+    },
+    {
+      "country": "美国",
+      "category": "三合一盘",
+      "qty": 3154.0,
+      "orders": 6
+    },
+    {
+      "country": "印度",
+      "category": "粉底液",
+      "qty": 3136.0,
+      "orders": 7
+    },
+    {
+      "country": "加纳",
+      "category": "组合品类",
+      "qty": 3118.0,
+      "orders": 5
+    },
+    {
+      "country": "马来西亚",
+      "category": "粉底液",
+      "qty": 3013.0,
+      "orders": 2
+    },
+    {
+      "country": "蒙古",
+      "category": "粉底液",
+      "qty": 3000.0,
+      "orders": 2
+    },
+    {
+      "country": "乌克兰",
+      "category": "眼线液笔",
+      "qty": 3000.0,
+      "orders": 2
+    },
+    {
+      "country": "马来西亚",
+      "category": "唇油",
+      "qty": 3000.0,
+      "orders": 2
+    },
+    {
+      "country": "阿联酋",
+      "category": "外采产品",
+      "qty": 2874.0,
+      "orders": 15
+    },
+    {
+      "country": "墨西哥",
+      "category": "外采产品",
+      "qty": 2860.0,
+      "orders": 7
+    },
+    {
+      "country": "罗马尼亚",
+      "category": "组合品类",
+      "qty": 2815.0,
+      "orders": 7
+    },
+    {
+      "country": "墨西哥",
+      "category": "粉底液",
+      "qty": 2745.0,
+      "orders": 11
+    },
+    {
+      "country": "印尼",
+      "category": "唇釉",
+      "qty": 2576.0,
+      "orders": 4
+    },
+    {
+      "country": "英国",
+      "category": "喷雾",
+      "qty": 2522.0,
+      "orders": 29
+    },
+    {
+      "country": "西班牙",
+      "category": "组合品类",
+      "qty": 2505.0,
+      "orders": 1
+    },
+    {
+      "country": "伊拉克",
+      "category": "喷雾",
+      "qty": 2502.0,
+      "orders": 3
+    },
+    {
+      "country": "赞比亚",
+      "category": "组合品类",
+      "qty": 2500.0,
+      "orders": 3
+    },
+    {
+      "country": "立陶宛",
+      "category": "外采产品",
+      "qty": 2487.0,
+      "orders": 4
+    },
+    {
+      "country": "乌克兰",
+      "category": "组合品类",
+      "qty": 2409.0,
+      "orders": 3
+    },
+    {
+      "country": "加纳",
+      "category": "粉底液",
+      "qty": 2403.0,
+      "orders": 4
+    },
+    {
+      "country": "英国",
+      "category": "唇釉",
+      "qty": 2347.0,
+      "orders": 10
+    },
+    {
+      "country": "希腊",
+      "category": "遮瑕",
+      "qty": 2307.0,
+      "orders": 3
+    },
+    {
+      "country": "卡塔尔",
+      "category": "组合品类",
+      "qty": 2268.0,
+      "orders": 8
+    },
+    {
+      "country": "多米尼加",
+      "category": "组合品类",
+      "qty": 2220.0,
+      "orders": 10
+    },
+    {
+      "country": "特立尼达和多巴哥",
+      "category": "喷雾",
+      "qty": 2206.0,
+      "orders": 6
+    },
+    {
+      "country": "科威特",
+      "category": "唇釉",
+      "qty": 2078.0,
+      "orders": 8
+    },
+    {
+      "country": "新加坡",
+      "category": "妆前乳",
+      "qty": 2026.0,
+      "orders": 3
+    },
+    {
+      "country": "希腊",
+      "category": "喷雾",
+      "qty": 2013.0,
+      "orders": 3
+    },
+    {
+      "country": "阿曼",
+      "category": "眼影盘",
+      "qty": 2012.0,
+      "orders": 3
+    },
+    {
+      "country": "阿曼",
+      "category": "眼线/眼影",
+      "qty": 2012.0,
+      "orders": 3
+    },
+    {
+      "country": "瑞典",
+      "category": "唇膏",
+      "qty": 2003.0,
+      "orders": 2
+    },
+    {
+      "country": "马来西亚",
+      "category": "唇棒",
+      "qty": 2002.0,
+      "orders": 4
+    },
+    {
+      "country": "印度",
+      "category": "身体高光油",
+      "qty": 2002.0,
+      "orders": 2
+    },
+    {
+      "country": "加纳",
+      "category": "粉色瓶水光*1000",
+      "qty": 2000.0,
+      "orders": 1
+    },
+    {
+      "country": "赞比亚",
+      "category": "遮瑕",
+      "qty": 2000.0,
+      "orders": 1
+    },
+    {
+      "country": "吉尔吉斯斯坦",
+      "category": "喷雾",
+      "qty": 2000.0,
+      "orders": 1
+    },
+    {
+      "country": "吉尔吉斯斯坦",
+      "category": "组合品类",
+      "qty": 2000.0,
+      "orders": 1
+    },
+    {
+      "country": "印度",
+      "category": "腮红盘",
+      "qty": 2000.0,
+      "orders": 1
+    },
+    {
+      "country": "德国",
+      "category": "组合品类",
+      "qty": 1790.0,
+      "orders": 6
+    },
+    {
+      "country": "新加坡",
+      "category": "组合品类",
+      "qty": 1750.0,
+      "orders": 13
+    },
+    {
+      "country": "肯尼亚",
+      "category": "组合品类",
+      "qty": 1718.0,
+      "orders": 4
+    },
+    {
+      "country": "阿联酋",
+      "category": "唇油",
+      "qty": 1701.0,
+      "orders": 3
+    },
+    {
+      "country": "荷兰",
+      "category": "组合品类",
+      "qty": 1607.0,
+      "orders": 9
+    },
+    {
+      "country": "巴基斯坦",
+      "category": "组合品类",
+      "qty": 1579.0,
+      "orders": 6
+    },
+    {
+      "country": "黎巴嫩",
+      "category": "组合品类",
+      "qty": 1545.0,
+      "orders": 5
+    },
+    {
+      "country": "美国",
+      "category": "高光粉",
+      "qty": 1494.0,
+      "orders": 16
+    },
+    {
+      "country": "也门",
+      "category": "组合品类",
+      "qty": 1450.0,
+      "orders": 1
+    },
+    {
+      "country": "英国",
+      "category": "遮瑕",
+      "qty": 1446.0,
+      "orders": 24
+    },
+    {
+      "country": "特立尼达和多巴哥",
+      "category": "组合品类",
+      "qty": 1410.0,
+      "orders": 5
+    },
+    {
+      "country": "肯尼亚",
+      "category": "粉底液",
+      "qty": 1407.0,
+      "orders": 4
+    },
+    {
+      "country": "南非",
+      "category": "外采产品",
+      "qty": 1347.0,
+      "orders": 5
+    },
+    {
+      "country": "阿曼",
+      "category": "腮红粉",
+      "qty": 1318.0,
+      "orders": 14
+    },
+    {
+      "country": "尼泊尔",
+      "category": "腮红粉",
+      "qty": 1300.0,
+      "orders": 2
+    },
+    {
+      "country": "阿曼",
+      "category": "散粉",
+      "qty": 1278.0,
+      "orders": 9
+    },
+    {
+      "country": "澳大利亚",
+      "category": "喷雾",
+      "qty": 1258.0,
+      "orders": 10
+    },
+    {
+      "country": "莫桑比克",
+      "category": "组合品类",
+      "qty": 1245.0,
+      "orders": 9
+    },
+    {
+      "country": "埃及",
+      "category": "组合品类",
+      "qty": 1234.0,
+      "orders": 4
+    },
+    {
+      "country": "黎巴嫩",
+      "category": "遮瑕",
+      "qty": 1230.0,
+      "orders": 3
+    },
+    {
+      "country": "波兰",
+      "category": "组合品类",
+      "qty": 1227.0,
+      "orders": 5
+    },
+    {
+      "country": "英国",
+      "category": "外采产品",
+      "qty": 1219.0,
+      "orders": 9
+    },
+    {
+      "country": "希腊",
+      "category": "外采产品",
+      "qty": 1219.0,
+      "orders": 6
+    },
+    {
+      "country": "卡塔尔",
+      "category": "唇釉",
+      "qty": 1209.0,
+      "orders": 2
+    },
+    {
+      "country": "法国",
+      "category": "组合品类",
+      "qty": 1207.0,
+      "orders": 12
+    },
+    {
+      "country": "德国",
+      "category": "散粉",
+      "qty": 1204.0,
+      "orders": 2
+    },
+    {
+      "country": "墨西哥",
+      "category": "眼线/眼影",
+      "qty": 1200.0,
+      "orders": 1
+    },
+    {
+      "country": "波兰",
+      "category": "外采产品",
+      "qty": 1108.0,
+      "orders": 6
+    },
+    {
+      "country": "澳大利亚",
+      "category": "粉底液",
+      "qty": 1103.0,
+      "orders": 7
+    },
+    {
+      "country": "南非",
+      "category": "粉底液",
+      "qty": 1072.0,
+      "orders": 6
+    },
+    {
+      "country": "伊拉克",
+      "category": "外采产品",
+      "qty": 1048.0,
+      "orders": 4
+    },
+    {
+      "country": "瑞典",
+      "category": "未分类",
+      "qty": 1015.0,
+      "orders": 2
+    },
+    {
+      "country": "西班牙",
+      "category": "喷雾",
+      "qty": 1005.0,
+      "orders": 1
+    },
+    {
+      "country": "阿联酋",
+      "category": "遮瑕",
+      "qty": 1005.0,
+      "orders": 10
+    },
+    {
+      "country": "伊拉克",
+      "category": "高光粉",
+      "qty": 1004.0,
+      "orders": 3
+    },
+    {
+      "country": "科威特",
+      "category": "眼影盘",
+      "qty": 1000.0,
+      "orders": 1
+    },
+    {
+      "country": "科威特",
+      "category": "眼线/眼影",
+      "qty": 1000.0,
+      "orders": 1
+    },
+    {
+      "country": "美国",
+      "category": "礼品盒*1000",
+      "qty": 1000.0,
+      "orders": 1
+    },
+    {
+      "country": "加纳",
+      "category": "唇油",
+      "qty": 1000.0,
+      "orders": 1
+    },
+    {
+      "country": "乌克兰",
+      "category": "眼线/眼影",
+      "qty": 1000.0,
+      "orders": 1
+    },
+    {
+      "country": "坦桑尼亚",
+      "category": "组合品类",
+      "qty": 866.0,
+      "orders": 2
+    },
+    {
+      "country": "多米尼加",
+      "category": "外采产品",
+      "qty": 840.0,
+      "orders": 5
+    },
+    {
+      "country": "俄罗斯",
+      "category": "腮红粉",
+      "qty": 820.0,
+      "orders": 3
+    },
+    {
+      "country": "美国",
+      "category": "修容粉",
+      "qty": 813.0,
+      "orders": 12
+    },
+    {
+      "country": "罗马尼亚",
+      "category": "遮瑕",
+      "qty": 803.0,
+      "orders": 4
+    },
+    {
+      "country": "西班牙",
+      "category": "腮红粉",
+      "qty": 802.0,
+      "orders": 2
+    },
+    {
+      "country": "赞比亚",
+      "category": "黑瓶哑光*800",
+      "qty": 800.0,
+      "orders": 1
+    },
+    {
+      "country": "尼泊尔",
+      "category": "组合品类",
+      "qty": 800.0,
+      "orders": 2
+    },
+    {
+      "country": "蒙古",
+      "category": "组合品类",
+      "qty": 800.0,
+      "orders": 1
+    },
+    {
+      "country": "多米尼加",
+      "category": "遮瑕",
+      "qty": 795.0,
+      "orders": 6
+    },
+    {
+      "country": "阿曼",
+      "category": "高光粉",
+      "qty": 754.0,
+      "orders": 7
+    },
+    {
+      "country": "南非",
+      "category": "喷雾",
+      "qty": 738.0,
+      "orders": 8
+    },
+    {
+      "country": "英国",
+      "category": "液体腮红",
+      "qty": 718.0,
+      "orders": 8
+    },
+    {
+      "country": "埃及",
+      "category": "粉底液",
+      "qty": 705.0,
+      "orders": 2
+    },
+    {
+      "country": "尼日利亚",
+      "category": "组合品类",
+      "qty": 650.0,
+      "orders": 6
+    },
+    {
+      "country": "卡塔尔",
+      "category": "外采产品",
+      "qty": 626.0,
+      "orders": 5
+    },
+    {
+      "country": "俄罗斯",
+      "category": "组合品类",
+      "qty": 619.0,
+      "orders": 2
+    },
+    {
+      "country": "澳大利亚",
+      "category": "外采产品",
+      "qty": 614.0,
+      "orders": 8
+    },
+    {
+      "country": "阿曼",
+      "category": "喷雾",
+      "qty": 612.0,
+      "orders": 16
+    },
+    {
+      "country": "荷兰",
+      "category": "喷雾",
+      "qty": 610.0,
+      "orders": 8
+    },
+    {
+      "country": "冰岛",
+      "category": "外采产品",
+      "qty": 610.0,
+      "orders": 3
+    },
+    {
+      "country": "尼日利亚",
+      "category": "喷雾",
+      "qty": 606.0,
+      "orders": 6
+    },
+    {
+      "country": "莫桑比克",
+      "category": "遮瑕",
+      "qty": 600.0,
+      "orders": 2
+    },
+    {
+      "country": "多米尼加",
+      "category": "腮红粉",
+      "qty": 551.0,
+      "orders": 6
+    },
+    {
+      "country": "英国",
+      "category": "粉底液",
+      "qty": 523.0,
+      "orders": 14
+    },
+    {
+      "country": "埃及",
+      "category": "遮瑕",
+      "qty": 522.0,
+      "orders": 4
+    },
+    {
+      "country": "罗马尼亚",
+      "category": "唇釉",
+      "qty": 521.0,
+      "orders": 5
+    },
+    {
+      "country": "黎巴嫩",
+      "category": "外采产品",
+      "qty": 519.0,
+      "orders": 5
+    },
+    {
+      "country": "印度",
+      "category": "外采产品",
+      "qty": 517.0,
+      "orders": 4
+    },
+    {
+      "country": "黎巴嫩",
+      "category": "喷雾",
+      "qty": 513.0,
+      "orders": 5
+    },
+    {
+      "country": "英国",
+      "category": "腮红粉",
+      "qty": 512.0,
+      "orders": 11
+    },
+    {
+      "country": "莫桑比克",
+      "category": "喷雾",
+      "qty": 509.0,
+      "orders": 5
+    },
+    {
+      "country": "坦桑尼亚",
+      "category": "粉底液",
+      "qty": 508.0,
+      "orders": 1
+    },
+    {
+      "country": "冰岛",
+      "category": "组合品类",
+      "qty": 503.0,
+      "orders": 2
+    },
+    {
+      "country": "葡萄牙",
+      "category": "外采产品",
+      "qty": 503.0,
+      "orders": 3
+    },
+    {
+      "country": "葡萄牙",
+      "category": "唇油",
+      "qty": 503.0,
+      "orders": 2
+    },
+    {
+      "country": "瑞典",
+      "category": "唇釉",
+      "qty": 503.0,
+      "orders": 2
+    },
+    {
+      "country": "澳大利亚",
+      "category": "眉笔/眉胶",
+      "qty": 502.0,
+      "orders": 4
+    },
+    {
+      "country": "英国",
+      "category": "未分类",
+      "qty": 502.0,
+      "orders": 2
+    },
+    {
+      "country": "加纳",
+      "category": "妆前乳",
+      "qty": 502.0,
+      "orders": 2
+    },
+    {
+      "country": "英国",
+      "category": "散粉",
+      "qty": 501.0,
+      "orders": 8
+    },
+    {
+      "country": "黎巴嫩",
+      "category": "散粉",
+      "qty": 501.0,
+      "orders": 2
+    },
+    {
+      "country": "美国",
+      "category": "黑瓶哑光*500",
+      "qty": 500.0,
+      "orders": 1
+    },
+    {
+      "country": "西班牙",
+      "category": "外采产品",
+      "qty": 500.0,
+      "orders": 1
+    },
+    {
+      "country": "赞比亚",
+      "category": "外采产品",
+      "qty": 500.0,
+      "orders": 1
+    },
+    {
+      "country": "赞比亚",
+      "category": "妆前乳",
+      "qty": 500.0,
+      "orders": 1
+    },
+    {
+      "country": "尼泊尔",
+      "category": "喷雾",
+      "qty": 500.0,
+      "orders": 1
+    },
+    {
+      "country": "美国",
+      "category": "透明底水晶标*500",
+      "qty": 500.0,
+      "orders": 1
+    },
+    {
+      "country": "阿曼",
+      "category": "三色盘",
+      "qty": 500.0,
+      "orders": 1
+    },
+    {
+      "country": "葡萄牙",
+      "category": "唇釉",
+      "qty": 500.0,
+      "orders": 1
+    },
+    {
+      "country": "葡萄牙",
+      "category": "组合品类",
+      "qty": 500.0,
+      "orders": 1
+    },
+    {
+      "country": "多米尼加",
+      "category": "粉底液",
+      "qty": 495.0,
+      "orders": 3
+    },
+    {
+      "country": "科威特",
+      "category": "组合品类",
+      "qty": 462.0,
+      "orders": 13
+    },
+    {
+      "country": "也门",
+      "category": "喷雾",
+      "qty": 462.0,
+      "orders": 1
+    },
+    {
+      "country": "德国",
+      "category": "液体腮红",
+      "qty": 454.0,
+      "orders": 2
+    },
+    {
+      "country": "法国",
+      "category": "喷雾",
+      "qty": 451.0,
+      "orders": 13
+    },
+    {
+      "country": "莫桑比克",
+      "category": "唇釉",
+      "qty": 451.0,
+      "orders": 3
+    },
+    {
+      "country": "南非",
+      "category": "唇釉",
+      "qty": 427.0,
+      "orders": 6
+    },
+    {
+      "country": "牙买加",
+      "category": "组合品类",
+      "qty": 403.0,
+      "orders": 3
+    },
+    {
+      "country": "阿曼",
+      "category": "卸妆水",
+      "qty": 401.0,
+      "orders": 5
+    },
+    {
+      "country": "西班牙",
+      "category": "高光粉",
+      "qty": 400.0,
+      "orders": 1
+    },
+    {
+      "country": "乌克兰",
+      "category": "唇釉",
+      "qty": 400.0,
+      "orders": 2
+    },
+    {
+      "country": "也门",
+      "category": "腮红粉",
+      "qty": 380.0,
+      "orders": 1
+    },
+    {
+      "country": "也门",
+      "category": "高光粉",
+      "qty": 380.0,
+      "orders": 1
+    },
+    {
+      "country": "美国",
+      "category": "妆前乳",
+      "qty": 379.0,
+      "orders": 12
+    },
+    {
+      "country": "柬埔寨",
+      "category": "组合品类",
+      "qty": 357.0,
+      "orders": 6
+    },
+    {
+      "country": "澳大利亚",
+      "category": "遮瑕",
+      "qty": 350.0,
+      "orders": 6
+    },
+    {
+      "country": "美国",
+      "category": "唇膏",
+      "qty": 339.0,
+      "orders": 5
+    },
+    {
+      "country": "南非",
+      "category": "遮瑕",
+      "qty": 335.0,
+      "orders": 6
+    },
+    {
+      "country": "美国",
+      "category": "液体腮红",
+      "qty": 321.0,
+      "orders": 13
+    },
+    {
+      "country": "英国",
+      "category": "唇油",
+      "qty": 320.0,
+      "orders": 5
+    },
+    {
+      "country": "挪威",
+      "category": "外采产品",
+      "qty": 320.0,
+      "orders": 3
+    },
+    {
+      "country": "法国",
+      "category": "粉底液",
+      "qty": 316.0,
+      "orders": 7
+    },
+    {
+      "country": "冈比亚",
+      "category": "组合品类",
+      "qty": 315.0,
+      "orders": 1
+    },
+    {
+      "country": "卡塔尔",
+      "category": "遮瑕",
+      "qty": 314.0,
+      "orders": 4
+    },
+    {
+      "country": "尼日利亚",
+      "category": "外采产品",
+      "qty": 308.0,
+      "orders": 3
+    },
+    {
+      "country": "美国",
+      "category": "LIP STICK*308",
+      "qty": 308.0,
+      "orders": 1
+    },
+    {
+      "country": "波兰",
+      "category": "腮红粉",
+      "qty": 307.0,
+      "orders": 3
+    },
+    {
+      "country": "罗马尼亚",
+      "category": "修容粉",
+      "qty": 307.0,
+      "orders": 3
+    },
+    {
+      "country": "罗马尼亚",
+      "category": "散粉",
+      "qty": 307.0,
+      "orders": 4
+    },
+    {
+      "country": "希腊",
+      "category": "唇釉",
+      "qty": 306.0,
+      "orders": 2
+    },
+    {
+      "country": "罗马尼亚",
+      "category": "高光粉",
+      "qty": 306.0,
+      "orders": 3
+    },
+    {
+      "country": "新加坡",
+      "category": "外采产品",
+      "qty": 306.0,
+      "orders": 3
+    },
+    {
+      "country": "罗马尼亚",
+      "category": "腮红粉",
+      "qty": 303.0,
+      "orders": 4
+    },
+    {
+      "country": "柬埔寨",
+      "category": "外采产品",
+      "qty": 302.0,
+      "orders": 2
+    },
+    {
+      "country": "新加坡",
+      "category": "唇油",
+      "qty": 300.0,
+      "orders": 2
+    },
+    {
+      "country": "印度",
+      "category": "空包材",
+      "qty": 300.0,
+      "orders": 1
+    },
+    {
+      "country": "荷兰",
+      "category": "外采产品",
+      "qty": 270.0,
+      "orders": 7
+    },
+    {
+      "country": "坦桑尼亚",
+      "category": "遮瑕",
+      "qty": 258.0,
+      "orders": 2
+    },
+    {
+      "country": "德国",
+      "category": "遮瑕",
+      "qty": 245.0,
+      "orders": 4
+    },
+    {
+      "country": "法国",
+      "category": "唇釉",
+      "qty": 236.0,
+      "orders": 6
+    },
+    {
+      "country": "也门",
+      "category": "粉底液",
+      "qty": 228.0,
+      "orders": 1
+    },
+    {
+      "country": "荷兰",
+      "category": "遮瑕",
+      "qty": 221.0,
+      "orders": 7
+    },
+    {
+      "country": "法国",
+      "category": "遮瑕",
+      "qty": 221.0,
+      "orders": 10
+    },
+    {
+      "country": "莫桑比克",
+      "category": "外采产品",
+      "qty": 217.0,
+      "orders": 5
+    },
+    {
+      "country": "法国",
+      "category": "腮红粉",
+      "qty": 215.0,
+      "orders": 5
+    },
+    {
+      "country": "澳大利亚",
+      "category": "高光粉",
+      "qty": 210.0,
+      "orders": 5
+    },
+    {
+      "country": "印尼",
+      "category": "组合品类",
+      "qty": 210.0,
+      "orders": 8
+    },
+    {
+      "country": "阿曼",
+      "category": "液体腮红",
+      "qty": 209.0,
+      "orders": 4
+    },
+    {
+      "country": "肯尼亚",
+      "category": "遮瑕",
+      "qty": 203.0,
+      "orders": 2
+    },
+    {
+      "country": "波兰",
+      "category": "唇釉",
+      "qty": 201.0,
+      "orders": 3
+    },
+    {
+      "country": "立陶宛",
+      "category": "喷雾",
+      "qty": 201.0,
+      "orders": 2
+    },
+    {
+      "country": "立陶宛",
+      "category": "腮红粉",
+      "qty": 201.0,
+      "orders": 2
+    },
+    {
+      "country": "荷兰",
+      "category": "液体腮红",
+      "qty": 200.0,
+      "orders": 2
+    },
+    {
+      "country": "科威特",
+      "category": "散粉",
+      "qty": 200.0,
+      "orders": 2
+    },
+    {
+      "country": "波兰",
+      "category": "套盒1*100 套盒2*100",
+      "qty": 200.0,
+      "orders": 1
+    },
+    {
+      "country": "特立尼达和多巴哥",
+      "category": "妆前乳",
+      "qty": 200.0,
+      "orders": 2
+    },
+    {
+      "country": "挪威",
+      "category": "组合品类",
+      "qty": 200.0,
+      "orders": 1
+    },
+    {
+      "country": "牙买加",
+      "category": "遮瑕",
+      "qty": 200.0,
+      "orders": 1
+    },
+    {
+      "country": "牙买加",
+      "category": "喷雾",
+      "qty": 200.0,
+      "orders": 2
+    },
+    {
+      "country": "毛里求斯",
+      "category": "散粉",
+      "qty": 200.0,
+      "orders": 1
+    },
+    {
+      "country": "丹麦",
+      "category": "组合品类",
+      "qty": 168.0,
+      "orders": 1
+    },
+    {
+      "country": "加拿大",
+      "category": "组合品类",
+      "qty": 164.0,
+      "orders": 6
+    },
+    {
+      "country": "荷兰",
+      "category": "粉底液",
+      "qty": 161.0,
+      "orders": 4
+    },
+    {
+      "country": "丹麦",
+      "category": "外采产品",
+      "qty": 161.0,
+      "orders": 1
+    },
+    {
+      "country": "亚美尼亚",
+      "category": "外采产品",
+      "qty": 160.0,
+      "orders": 2
+    },
+    {
+      "country": "泰国",
+      "category": "组合品类",
+      "qty": 156.0,
+      "orders": 6
+    },
+    {
+      "country": "阿曼",
+      "category": "妆前乳",
+      "qty": 152.0,
+      "orders": 2
+    },
+    {
+      "country": "多米尼加",
+      "category": "喷雾",
+      "qty": 150.0,
+      "orders": 3
+    },
+    {
+      "country": "亚美尼亚",
+      "category": "哑光唇部套装",
+      "qty": 150.0,
+      "orders": 1
+    },
+    {
+      "country": "美国",
+      "category": "外购唇彩*150",
+      "qty": 150.0,
+      "orders": 1
+    },
+    {
+      "country": "美国",
+      "category": "唇油",
+      "qty": 148.0,
+      "orders": 19
+    },
+    {
+      "country": "科威特",
+      "category": "腮红粉",
+      "qty": 141.0,
+      "orders": 6
+    },
+    {
+      "country": "菲律宾",
+      "category": "唇釉",
+      "qty": 139.0,
+      "orders": 16
+    },
+    {
+      "country": "哈萨克斯坦",
+      "category": "组合品类",
+      "qty": 135.0,
+      "orders": 1
+    },
+    {
+      "country": "荷兰",
+      "category": "散粉",
+      "qty": 132.0,
+      "orders": 4
+    },
+    {
+      "country": "加拿大",
+      "category": "喷雾",
+      "qty": 126.0,
+      "orders": 6
+    },
+    {
+      "country": "洪都拉斯",
+      "category": "空包材",
+      "qty": 125.0,
+      "orders": 1
+    },
+    {
+      "country": "洪都拉斯",
+      "category": "唇油",
+      "qty": 125.0,
+      "orders": 1
+    },
+    {
+      "country": "澳大利亚",
+      "category": "散粉",
+      "qty": 120.0,
+      "orders": 2
+    },
+    {
+      "country": "挪威",
+      "category": "白色木制唇线笔*120",
+      "qty": 120.0,
+      "orders": 1
+    },
+    {
+      "country": "冈比亚",
+      "category": "粉底液",
+      "qty": 115.0,
+      "orders": 1
+    },
+    {
+      "country": "尼日利亚",
+      "category": "唇釉",
+      "qty": 114.0,
+      "orders": 3
+    }
+  ],
+  "unmapped": [
+    {
+      "label": "艾瑞",
+      "qty": 54517.0,
+      "rows": 933,
+      "orders": 93
+    },
+    {
+      "label": "未填",
+      "qty": 1498.0,
+      "rows": 52,
+      "orders": 11
+    },
+    {
+      "label": "用于泰国展样品",
+      "qty": 348.0,
+      "rows": 33,
+      "orders": 2
+    },
+    {
+      "label": "东南亚",
+      "qty": 240.0,
+      "rows": 13,
+      "orders": 1
+    },
+    {
+      "label": "欧美国家",
+      "qty": 170.0,
+      "rows": 5,
+      "orders": 2
+    },
+    {
+      "label": "比利时",
+      "qty": 85.0,
+      "rows": 44,
+      "orders": 1
+    },
+    {
+      "label": "中东沙特国家",
+      "qty": 12.0,
+      "rows": 3,
+      "orders": 1
+    },
+    {
+      "label": "glossy liptint是印尼 lipstain和lipstint是伊拉克的",
+      "qty": 6.0,
+      "rows": 3,
+      "orders": 1
+    }
+  ],
+  "sprayTop": [
+    {
+      "country": "菲律宾",
+      "english": "Philippines",
+      "lat": 12.9,
+      "lon": 122.8,
+      "qty": 415755.0,
+      "sales": 500939.02,
+      "rows": 400,
+      "orders": 42,
+      "a_orders": 22,
+      "b_orders": 2,
+      "c_orders": 17,
+      "unknown_orders": 1,
+      "c_order_share": 0.4048,
+      "top_category": "喷雾",
+      "top_category_qty": 189789.0,
+      "spray_qty": 189789.0,
+      "spray_share": 0.4565,
+      "level_counts": {
+        "C": 17,
+        "B": 2,
+        "A": 22,
+        "未填": 1
+      },
+      "top_categories": [
+        {
+          "category": "喷雾",
+          "qty": 189789.0,
+          "orders": 23
+        },
+        {
+          "category": "组合品类",
+          "qty": 115386.0,
+          "orders": 16
+        },
+        {
+          "category": "气垫",
+          "qty": 110019.0,
+          "orders": 4
+        },
+        {
+          "category": "唇釉",
+          "qty": 139.0,
+          "orders": 16
+        },
+        {
+          "category": "眼线/眼影",
+          "qty": 93.0,
+          "orders": 5
+        },
+        {
+          "category": "未分类",
+          "qty": 85.0,
+          "orders": 5
+        },
+        {
+          "category": "LIP BUTTER BALM",
+          "qty": 51.0,
+          "orders": 1
+        },
+        {
+          "category": "粉底液",
+          "qty": 42.0,
+          "orders": 10
+        }
+      ]
+    },
+    {
+      "country": "印度",
+      "english": "India",
+      "lat": 20.6,
+      "lon": 78.9,
+      "qty": 97886.0,
+      "sales": 321187.66,
+      "rows": 157,
+      "orders": 24,
+      "a_orders": 8,
+      "b_orders": 3,
+      "c_orders": 14,
+      "unknown_orders": 0,
+      "c_order_share": 0.5833,
+      "top_category": "喷雾",
+      "top_category_qty": 71115.0,
+      "spray_qty": 71115.0,
+      "spray_share": 0.7265,
+      "level_counts": {
+        "C": 14,
+        "A": 8,
+        "B": 3
+      },
+      "top_categories": [
+        {
+          "category": "喷雾",
+          "qty": 71115.0,
+          "orders": 9
+        },
+        {
+          "category": "组合品类",
+          "qty": 8571.0,
+          "orders": 9
+        },
+        {
+          "category": "高光粉",
+          "qty": 6006.0,
+          "orders": 3
+        },
+        {
+          "category": "腮红粉",
+          "qty": 4219.0,
+          "orders": 8
+        },
+        {
+          "category": "粉底液",
+          "qty": 3136.0,
+          "orders": 7
+        },
+        {
+          "category": "身体高光油",
+          "qty": 2002.0,
+          "orders": 2
+        },
+        {
+          "category": "腮红盘",
+          "qty": 2000.0,
+          "orders": 1
+        },
+        {
+          "category": "外采产品",
+          "qty": 517.0,
+          "orders": 4
+        }
+      ]
+    },
+    {
+      "country": "美国",
+      "english": "United States",
+      "lat": 37.1,
+      "lon": -95.7,
+      "qty": 191097.0,
+      "sales": 1.3260699365806244e+20,
+      "rows": 2194,
+      "orders": 210,
+      "a_orders": 18,
+      "b_orders": 12,
+      "c_orders": 183,
+      "unknown_orders": 1,
+      "c_order_share": 0.8714,
+      "top_category": "组合品类",
+      "top_category_qty": 56544.0,
+      "spray_qty": 27953.0,
+      "spray_share": 0.1463,
+      "level_counts": {
+        "C": 183,
+        "B": 12,
+        "A": 18,
+        "未填": 1
+      },
+      "top_categories": [
+        {
+          "category": "组合品类",
+          "qty": 56544.0,
+          "orders": 100
+        },
+        {
+          "category": "喷雾",
+          "qty": 27953.0,
+          "orders": 86
+        },
+        {
+          "category": "唇釉",
+          "qty": 24808.0,
+          "orders": 52
+        },
+        {
+          "category": "粉底液",
+          "qty": 18264.0,
+          "orders": 42
+        },
+        {
+          "category": "外采产品",
+          "qty": 13831.0,
+          "orders": 67
+        },
+        {
+          "category": "遮瑕",
+          "qty": 13489.0,
+          "orders": 61
+        },
+        {
+          "category": "腮红粉",
+          "qty": 12808.0,
+          "orders": 45
+        },
+        {
+          "category": "散粉",
+          "qty": 6447.0,
+          "orders": 28
+        }
+      ]
+    },
+    {
+      "country": "新加坡",
+      "english": "Singapore",
+      "lat": 1.35,
+      "lon": 103.8,
+      "qty": 84830.0,
+      "sales": 5.548847979533524e+18,
+      "rows": 332,
+      "orders": 55,
+      "a_orders": 10,
+      "b_orders": 9,
+      "c_orders": 36,
+      "unknown_orders": 0,
+      "c_order_share": 0.6545,
+      "top_category": "遮瑕",
+      "top_category_qty": 32630.0,
+      "spray_qty": 20281.0,
+      "spray_share": 0.2391,
+      "level_counts": {
+        "C": 36,
+        "B": 9,
+        "A": 10
+      },
+      "top_categories": [
+        {
+          "category": "遮瑕",
+          "qty": 32630.0,
+          "orders": 24
+        },
+        {
+          "category": "喷雾",
+          "qty": 20281.0,
+          "orders": 18
+        },
+        {
+          "category": "修容粉",
+          "qty": 7008.0,
+          "orders": 3
+        },
+        {
+          "category": "未分类",
+          "qty": 6004.0,
+          "orders": 2
+        },
+        {
+          "category": "空包材",
+          "qty": 6003.0,
+          "orders": 2
+        },
+        {
+          "category": "卸妆水",
+          "qty": 5027.0,
+          "orders": 6
+        },
+        {
+          "category": "液体腮红",
+          "qty": 3429.0,
+          "orders": 7
+        },
+        {
+          "category": "妆前乳",
+          "qty": 2026.0,
+          "orders": 3
+        }
+      ]
+    },
+    {
+      "country": "马来西亚",
+      "english": "Malaysia",
+      "lat": 4.2,
+      "lon": 102.0,
+      "qty": 69092.0,
+      "sales": 126650.0,
+      "rows": 127,
+      "orders": 18,
+      "a_orders": 8,
+      "b_orders": 3,
+      "c_orders": 8,
+      "unknown_orders": 0,
+      "c_order_share": 0.4444,
+      "top_category": "组合品类",
+      "top_category_qty": 25919.0,
+      "spray_qty": 15335.0,
+      "spray_share": 0.222,
+      "level_counts": {
+        "C": 8,
+        "B": 3,
+        "A": 8
+      },
+      "top_categories": [
+        {
+          "category": "组合品类",
+          "qty": 25919.0,
+          "orders": 11
+        },
+        {
+          "category": "喷雾",
+          "qty": 15335.0,
+          "orders": 8
+        },
+        {
+          "category": "唇釉",
+          "qty": 10704.0,
+          "orders": 10
+        },
+        {
+          "category": "腮红粉",
+          "qty": 5023.0,
+          "orders": 5
+        },
+        {
+          "category": "散粉",
+          "qty": 4043.0,
+          "orders": 5
+        },
+        {
+          "category": "粉底液",
+          "qty": 3013.0,
+          "orders": 2
+        },
+        {
+          "category": "唇油",
+          "qty": 3000.0,
+          "orders": 2
+        },
+        {
+          "category": "唇棒",
+          "qty": 2002.0,
+          "orders": 4
+        }
+      ]
+    },
+    {
+      "country": "墨西哥",
+      "english": "Mexico",
+      "lat": 23.6,
+      "lon": -102.6,
+      "qty": 73426.0,
+      "sales": 8.06867428160661e+19,
+      "rows": 275,
+      "orders": 21,
+      "a_orders": 3,
+      "b_orders": 4,
+      "c_orders": 15,
+      "unknown_orders": 0,
+      "c_order_share": 0.7143,
+      "top_category": "组合品类",
+      "top_category_qty": 16423.0,
+      "spray_qty": 10303.0,
+      "spray_share": 0.1403,
+      "level_counts": {
+        "B": 4,
+        "C": 15,
+        "A": 3
+      },
+      "top_categories": [
+        {
+          "category": "组合品类",
+          "qty": 16423.0,
+          "orders": 11
+        },
+        {
+          "category": "空包材",
+          "qty": 16120.0,
+          "orders": 3
+        },
+        {
+          "category": "散粉",
+          "qty": 14020.0,
+          "orders": 7
+        },
+        {
+          "category": "喷雾",
+          "qty": 10303.0,
+          "orders": 5
+        },
+        {
+          "category": "遮瑕",
+          "qty": 9706.0,
+          "orders": 6
+        },
+        {
+          "category": "外采产品",
+          "qty": 2860.0,
+          "orders": 7
+        },
+        {
+          "category": "粉底液",
+          "qty": 2745.0,
+          "orders": 11
+        },
+        {
+          "category": "眼线/眼影",
+          "qty": 1200.0,
+          "orders": 1
+        }
+      ]
+    },
+    {
+      "country": "赞比亚",
+      "english": "Zambia",
+      "lat": -13.1,
+      "lon": 27.8,
+      "qty": 16026.0,
+      "sales": 41921.0,
+      "rows": 52,
+      "orders": 11,
+      "a_orders": 4,
+      "b_orders": 1,
+      "c_orders": 7,
+      "unknown_orders": 0,
+      "c_order_share": 0.6364,
+      "top_category": "粉底液",
+      "top_category_qty": 6012.0,
+      "spray_qty": 3704.0,
+      "spray_share": 0.2311,
+      "level_counts": {
+        "C": 7,
+        "A": 4,
+        "B": 1
+      },
+      "top_categories": [
+        {
+          "category": "粉底液",
+          "qty": 6012.0,
+          "orders": 3
+        },
+        {
+          "category": "喷雾",
+          "qty": 3704.0,
+          "orders": 8
+        },
+        {
+          "category": "组合品类",
+          "qty": 2500.0,
+          "orders": 3
+        },
+        {
+          "category": "遮瑕",
+          "qty": 2000.0,
+          "orders": 1
+        },
+        {
+          "category": "黑瓶哑光*800",
+          "qty": 800.0,
+          "orders": 1
+        },
+        {
+          "category": "外采产品",
+          "qty": 500.0,
+          "orders": 1
+        },
+        {
+          "category": "妆前乳",
+          "qty": 500.0,
+          "orders": 1
+        },
+        {
+          "category": "未分类",
+          "qty": 10.0,
+          "orders": 1
+        }
+      ]
+    },
+    {
+      "country": "阿联酋",
+      "english": "United Arab Emirates",
+      "lat": 23.4,
+      "lon": 53.8,
+      "qty": 28252.0,
+      "sales": 65957.22,
+      "rows": 363,
+      "orders": 44,
+      "a_orders": 3,
+      "b_orders": 4,
+      "c_orders": 37,
+      "unknown_orders": 0,
+      "c_order_share": 0.8409,
+      "top_category": "唇釉",
+      "top_category_qty": 10319.0,
+      "spray_qty": 3681.0,
+      "spray_share": 0.1303,
+      "level_counts": {
+        "B": 4,
+        "C": 37,
+        "A": 3
+      },
+      "top_categories": [
+        {
+          "category": "唇釉",
+          "qty": 10319.0,
+          "orders": 14
+        },
+        {
+          "category": "组合品类",
+          "qty": 4349.0,
+          "orders": 25
+        },
+        {
+          "category": "腮红粉",
+          "qty": 4125.0,
+          "orders": 11
+        },
+        {
+          "category": "喷雾",
+          "qty": 3681.0,
+          "orders": 19
+        },
+        {
+          "category": "外采产品",
+          "qty": 2874.0,
+          "orders": 15
+        },
+        {
+          "category": "唇油",
+          "qty": 1701.0,
+          "orders": 3
+        },
+        {
+          "category": "遮瑕",
+          "qty": 1005.0,
+          "orders": 10
+        },
+        {
+          "category": "散粉",
+          "qty": 102.0,
+          "orders": 3
+        }
+      ]
+    }
+  ],
+  "highC": [
+    {
+      "country": "多米尼加",
+      "english": "Dominican Republic",
+      "lat": 18.7,
+      "lon": -70.2,
+      "qty": 5501.0,
+      "sales": 12263.2,
+      "rows": 231,
+      "orders": 14,
+      "a_orders": 0,
+      "b_orders": 0,
+      "c_orders": 14,
+      "unknown_orders": 0,
+      "c_order_share": 1.0,
+      "top_category": "组合品类",
+      "top_category_qty": 2220.0,
+      "spray_qty": 150.0,
+      "spray_share": 0.0273,
+      "level_counts": {
+        "C": 14
+      },
+      "top_categories": [
+        {
+          "category": "组合品类",
+          "qty": 2220.0,
+          "orders": 10
+        },
+        {
+          "category": "外采产品",
+          "qty": 840.0,
+          "orders": 5
+        },
+        {
+          "category": "遮瑕",
+          "qty": 795.0,
+          "orders": 6
+        },
+        {
+          "category": "腮红粉",
+          "qty": 551.0,
+          "orders": 6
+        },
+        {
+          "category": "粉底液",
+          "qty": 495.0,
+          "orders": 3
+        },
+        {
+          "category": "喷雾",
+          "qty": 150.0,
+          "orders": 3
+        },
+        {
+          "category": "修容粉",
+          "qty": 100.0,
+          "orders": 2
+        },
+        {
+          "category": "液体腮红",
+          "qty": 100.0,
+          "orders": 1
+        }
+      ]
+    },
+    {
+      "country": "荷兰",
+      "english": "Netherlands",
+      "lat": 52.1,
+      "lon": 5.3,
+      "qty": 3436.0,
+      "sales": 8884.59,
+      "rows": 190,
+      "orders": 13,
+      "a_orders": 0,
+      "b_orders": 0,
+      "c_orders": 13,
+      "unknown_orders": 0,
+      "c_order_share": 1.0,
+      "top_category": "组合品类",
+      "top_category_qty": 1607.0,
+      "spray_qty": 610.0,
+      "spray_share": 0.1775,
+      "level_counts": {
+        "C": 13
+      },
+      "top_categories": [
+        {
+          "category": "组合品类",
+          "qty": 1607.0,
+          "orders": 9
+        },
+        {
+          "category": "喷雾",
+          "qty": 610.0,
+          "orders": 8
+        },
+        {
+          "category": "外采产品",
+          "qty": 270.0,
+          "orders": 7
+        },
+        {
+          "category": "遮瑕",
+          "qty": 221.0,
+          "orders": 7
+        },
+        {
+          "category": "液体腮红",
+          "qty": 200.0,
+          "orders": 2
+        },
+        {
+          "category": "粉底液",
+          "qty": 161.0,
+          "orders": 4
+        },
+        {
+          "category": "散粉",
+          "qty": 132.0,
+          "orders": 4
+        },
+        {
+          "category": "腮红粉",
+          "qty": 107.0,
+          "orders": 3
+        }
+      ]
+    },
+    {
+      "country": "南非",
+      "english": "South Africa",
+      "lat": -30.6,
+      "lon": 22.9,
+      "qty": 7936.0,
+      "sales": 18015.98,
+      "rows": 158,
+      "orders": 11,
+      "a_orders": 0,
+      "b_orders": 0,
+      "c_orders": 11,
+      "unknown_orders": 0,
+      "c_order_share": 1.0,
+      "top_category": "组合品类",
+      "top_category_qty": 3951.0,
+      "spray_qty": 738.0,
+      "spray_share": 0.093,
+      "level_counts": {
+        "C": 11
+      },
+      "top_categories": [
+        {
+          "category": "组合品类",
+          "qty": 3951.0,
+          "orders": 9
+        },
+        {
+          "category": "外采产品",
+          "qty": 1347.0,
+          "orders": 5
+        },
+        {
+          "category": "粉底液",
+          "qty": 1072.0,
+          "orders": 6
+        },
+        {
+          "category": "喷雾",
+          "qty": 738.0,
+          "orders": 8
+        },
+        {
+          "category": "唇釉",
+          "qty": 427.0,
+          "orders": 6
+        },
+        {
+          "category": "遮瑕",
+          "qty": 335.0,
+          "orders": 6
+        },
+        {
+          "category": "腮红粉",
+          "qty": 32.0,
+          "orders": 5
+        },
+        {
+          "category": "高光粉",
+          "qty": 16.0,
+          "orders": 2
+        }
+      ]
+    },
+    {
+      "country": "莫桑比克",
+      "english": "Mozambique",
+      "lat": -18.7,
+      "lon": 35.5,
+      "qty": 3096.0,
+      "sales": 8622.5,
+      "rows": 97,
+      "orders": 11,
+      "a_orders": 0,
+      "b_orders": 0,
+      "c_orders": 11,
+      "unknown_orders": 0,
+      "c_order_share": 1.0,
+      "top_category": "组合品类",
+      "top_category_qty": 1245.0,
+      "spray_qty": 509.0,
+      "spray_share": 0.1644,
+      "level_counts": {
+        "C": 11
+      },
+      "top_categories": [
+        {
+          "category": "组合品类",
+          "qty": 1245.0,
+          "orders": 9
+        },
+        {
+          "category": "遮瑕",
+          "qty": 600.0,
+          "orders": 2
+        },
+        {
+          "category": "喷雾",
+          "qty": 509.0,
+          "orders": 5
+        },
+        {
+          "category": "唇釉",
+          "qty": 451.0,
+          "orders": 3
+        },
+        {
+          "category": "外采产品",
+          "qty": 217.0,
+          "orders": 5
+        },
+        {
+          "category": "散粉",
+          "qty": 50.0,
+          "orders": 2
+        },
+        {
+          "category": "粉底液",
+          "qty": 23.0,
+          "orders": 3
+        },
+        {
+          "category": "修容粉",
+          "qty": 1.0,
+          "orders": 1
+        }
+      ]
+    },
+    {
+      "country": "尼日利亚",
+      "english": "Nigeria",
+      "lat": 9.1,
+      "lon": 8.7,
+      "qty": 2020.0,
+      "sales": 5351.1,
+      "rows": 101,
+      "orders": 10,
+      "a_orders": 0,
+      "b_orders": 0,
+      "c_orders": 10,
+      "unknown_orders": 0,
+      "c_order_share": 1.0,
+      "top_category": "组合品类",
+      "top_category_qty": 650.0,
+      "spray_qty": 606.0,
+      "spray_share": 0.3,
+      "level_counts": {
+        "C": 10
+      },
+      "top_categories": [
+        {
+          "category": "组合品类",
+          "qty": 650.0,
+          "orders": 6
+        },
+        {
+          "category": "喷雾",
+          "qty": 606.0,
+          "orders": 6
+        },
+        {
+          "category": "外采产品",
+          "qty": 308.0,
+          "orders": 3
+        },
+        {
+          "category": "唇釉",
+          "qty": 114.0,
+          "orders": 3
+        },
+        {
+          "category": "遮瑕",
+          "qty": 103.0,
+          "orders": 2
+        },
+        {
+          "category": "腮红粉",
+          "qty": 102.0,
+          "orders": 1
+        },
+        {
+          "category": "睫毛膏",
+          "qty": 102.0,
+          "orders": 2
+        },
+        {
+          "category": "粉底液",
+          "qty": 29.0,
+          "orders": 2
+        }
+      ]
+    },
+    {
+      "country": "罗马尼亚",
+      "english": "Romania",
+      "lat": 45.9,
+      "lon": 24.9,
+      "qty": 5644.0,
+      "sales": 3348.3,
+      "rows": 172,
+      "orders": 8,
+      "a_orders": 0,
+      "b_orders": 0,
+      "c_orders": 8,
+      "unknown_orders": 0,
+      "c_order_share": 1.0,
+      "top_category": "组合品类",
+      "top_category_qty": 2815.0,
+      "spray_qty": 105.0,
+      "spray_share": 0.0186,
+      "level_counts": {
+        "C": 8
+      },
+      "top_categories": [
+        {
+          "category": "组合品类",
+          "qty": 2815.0,
+          "orders": 7
+        },
+        {
+          "category": "遮瑕",
+          "qty": 803.0,
+          "orders": 4
+        },
+        {
+          "category": "唇釉",
+          "qty": 521.0,
+          "orders": 5
+        },
+        {
+          "category": "修容粉",
+          "qty": 307.0,
+          "orders": 3
+        },
+        {
+          "category": "散粉",
+          "qty": 307.0,
+          "orders": 4
+        },
+        {
+          "category": "高光粉",
+          "qty": 306.0,
+          "orders": 3
+        },
+        {
+          "category": "腮红粉",
+          "qty": 303.0,
+          "orders": 4
+        },
+        {
+          "category": "妆前乳",
+          "qty": 108.0,
+          "orders": 4
+        }
+      ]
+    },
+    {
+      "country": "卡塔尔",
+      "english": "Qatar",
+      "lat": 25.4,
+      "lon": 51.2,
+      "qty": 4536.0,
+      "sales": 5966.8,
+      "rows": 112,
+      "orders": 8,
+      "a_orders": 0,
+      "b_orders": 0,
+      "c_orders": 8,
+      "unknown_orders": 0,
+      "c_order_share": 1.0,
+      "top_category": "组合品类",
+      "top_category_qty": 2268.0,
+      "spray_qty": 100.0,
+      "spray_share": 0.022,
+      "level_counts": {
+        "C": 8
+      },
+      "top_categories": [
+        {
+          "category": "组合品类",
+          "qty": 2268.0,
+          "orders": 8
+        },
+        {
+          "category": "唇釉",
+          "qty": 1209.0,
+          "orders": 2
+        },
+        {
+          "category": "外采产品",
+          "qty": 626.0,
+          "orders": 5
+        },
+        {
+          "category": "遮瑕",
+          "qty": 314.0,
+          "orders": 4
+        },
+        {
+          "category": "喷雾",
+          "qty": 100.0,
+          "orders": 1
+        },
+        {
+          "category": "腮红粉",
+          "qty": 9.0,
+          "orders": 2
+        },
+        {
+          "category": "粉底液",
+          "qty": 4.0,
+          "orders": 2
+        },
+        {
+          "category": "散粉",
+          "qty": 3.0,
+          "orders": 1
+        }
+      ]
+    },
+    {
+      "country": "波兰",
+      "english": "Poland",
+      "lat": 51.9,
+      "lon": 19.1,
+      "qty": 3073.0,
+      "sales": 1523.0,
+      "rows": 67,
+      "orders": 8,
+      "a_orders": 0,
+      "b_orders": 0,
+      "c_orders": 8,
+      "unknown_orders": 0,
+      "c_order_share": 1.0,
+      "top_category": "组合品类",
+      "top_category_qty": 1227.0,
+      "spray_qty": 0,
+      "spray_share": 0.0,
+      "level_counts": {
+        "C": 8
+      },
+      "top_categories": [
+        {
+          "category": "组合品类",
+          "qty": 1227.0,
+          "orders": 5
+        },
+        {
+          "category": "外采产品",
+          "qty": 1108.0,
+          "orders": 6
+        },
+        {
+          "category": "腮红粉",
+          "qty": 307.0,
+          "orders": 3
+        },
+        {
+          "category": "唇釉",
+          "qty": 201.0,
+          "orders": 3
+        },
+        {
+          "category": "套盒1*100 套盒2*100",
+          "qty": 200.0,
+          "orders": 1
+        },
+        {
+          "category": "遮瑕",
+          "qty": 17.0,
+          "orders": 3
+        },
+        {
+          "category": "修容粉",
+          "qty": 4.0,
+          "orders": 1
+        },
+        {
+          "category": "高光粉",
+          "qty": 3.0,
+          "orders": 1
+        }
+      ]
+    }
+  ]
+}
